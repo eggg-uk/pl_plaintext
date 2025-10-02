@@ -2,7 +2,7 @@ name: generate the file again pls
 
 on:
   schedule:
-    - cron: '0 45 * * *'
+    - cron: '0 0 * * *'
   push:
     branches: [main]
   workflow_dispatch: 
@@ -10,7 +10,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
