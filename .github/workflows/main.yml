@@ -1,0 +1,32 @@
+name: generate the file again pls
+
+on:
+  schedule:
+    - cron: '0 45 * * *' 
+  push:
+    branches: [main]
+  workflow_dispatch: 
+  
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout code
+      uses: actions/checkout@v5
+
+    - name: Setup python and dependencies
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: install prereqs and run script
+      run: pip install -r requirements.txt
+      run: python src/main.py
+    
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public

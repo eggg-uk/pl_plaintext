@@ -30,7 +30,7 @@ def main():
 
         #sort events (game weeks):
         #open a file to save to:
-        with open('output.txt','w') as output_file:
+        with open('output/output.txt','w') as output_file:
             print(f"Last run started : {datetime.fromtimestamp(time.time()).strftime('%d %b %Y %H:%M:%S')}\n",file=output_file)
             for e in events:
                 week_state = ""
