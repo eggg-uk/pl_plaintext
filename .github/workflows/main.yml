@@ -2,7 +2,7 @@ name: generate the file again pls
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 50 * * *'
   push:
     branches: [main]
   workflow_dispatch: 
@@ -33,4 +33,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        publish_dir: ./output
