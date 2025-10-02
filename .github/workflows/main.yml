@@ -2,7 +2,7 @@ name: generate the file again pls
 
 on:
   schedule:
-    - cron: '0 45 * * *' 
+    - cron: '0 45 * * *'
   push:
     branches: [main]
   workflow_dispatch: 
