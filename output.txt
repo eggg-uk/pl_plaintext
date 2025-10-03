@@ -1,4 +1,4 @@
-Last run started : 03 Oct 2025 19:55:46
+Last run started : 03 Oct 2025 20:55:27
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -73,7 +73,7 @@ Sun 28th Sep 16:30 Newcastle VS Arsenal (1-2)
 Mon 29th Sep 20:00 Everton VS West Ham (1-1)
 
 This week: Gameweek 7, Deadline: 03 Oct 2025 18:30 
-Fri 3rd Oct 20:00 Bournemouth VS Fulham (0-0)
+Fri 3rd Oct 20:00 Bournemouth VS Fulham (2-1)
 Sat 4th Oct 12:30 Leeds VS Spurs
 Sat 4th Oct 15:00 Arsenal VS West Ham
 Sat 4th Oct 15:00 Man Utd VS Sunderland
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 03 Oct 2025 19:55:46
+Last run ended : 03 Oct 2025 20:55:27
 
