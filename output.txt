@@ -1,4 +1,4 @@
-Last run started : 05 Oct 2025 14:55:47
+Last run started : 05 Oct 2025 15:55:35
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -82,7 +82,7 @@ Sun 5th Oct 14:00 Aston Villa VS Burnley (2-1)
 Sun 5th Oct 14:00 Everton VS Crystal Palace (2-1)
 Sun 5th Oct 14:00 Newcastle VS Nott'm Forest (2-0)
 Sun 5th Oct 14:00 Wolves VS Brighton (1-1)
-Sun 5th Oct 16:30 Brentford VS Man City
+Sun 5th Oct 16:30 Brentford VS Man City (0-1)
 
 Next week: Gameweek 8, Deadline: 18 Oct 2025 11:00 
 Sat 18th Oct 12:30 Nott'm Forest VS Chelsea
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 05 Oct 2025 14:55:47
+Last run ended : 05 Oct 2025 15:55:35
 
