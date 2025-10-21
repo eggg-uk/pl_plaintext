@@ -3,3 +3,4 @@ fetches pl gameweeks and fixtures and returns them in plaintext using python.
 
 runs hourly and publishes to [here](https://eggg-uk.github.io/pl_plaintext/output.txt)
 
+and if we're lucky, it maybe also publishes to [here](https://eggg-uk.github.io/pl_plaintext/)
