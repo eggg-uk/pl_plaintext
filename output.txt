@@ -1,4 +1,4 @@
-Last run started : 08 Nov 2025 15:55:28
+Last run started : 08 Nov 2025 16:55:43
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -122,8 +122,8 @@ Mon 3rd Nov 20:00 Sunderland VS Everton (1-1)
 
 This week: Gameweek 11, Deadline: 08 Nov 2025 11:00 
 Sat 8th Nov 12:30 Spurs VS Man Utd (2-2)
-Sat 8th Nov 15:00 Everton VS Fulham (1-0)
-Sat 8th Nov 15:00 West Ham VS Burnley (1-1)
+Sat 8th Nov 15:00 Everton VS Fulham (2-0)
+Sat 8th Nov 15:00 West Ham VS Burnley (3-1)
 Sat 8th Nov 17:30 Sunderland VS Arsenal
 Sat 8th Nov 20:00 Chelsea VS Wolves
 Sun 9th Nov 14:00 Aston Villa VS Bournemouth
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 08 Nov 2025 15:55:28
+Last run ended : 08 Nov 2025 16:55:43
 
