@@ -1,4 +1,4 @@
-Last run started : 30 Nov 2025 15:55:25
+Last run started : 30 Nov 2025 16:55:43
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -152,9 +152,9 @@ Sat 29th Nov 17:30 Everton VS Newcastle (1-4)
 Sat 29th Nov 20:00 Spurs VS Fulham (1-2)
 Sun 30th Nov 12:00 Crystal Palace VS Man Utd (1-2)
 Sun 30th Nov 14:05 Aston Villa VS Wolves (1-0)
-Sun 30th Nov 14:05 Nott'm Forest VS Brighton (0-1)
-Sun 30th Nov 14:05 West Ham VS Liverpool (0-1)
-Sun 30th Nov 16:30 Chelsea VS Arsenal
+Sun 30th Nov 14:05 Nott'm Forest VS Brighton (0-2)
+Sun 30th Nov 14:05 West Ham VS Liverpool (0-2)
+Sun 30th Nov 16:30 Chelsea VS Arsenal (0-0)
 
 Next week: Gameweek 14, Deadline: 02 Dec 2025 18:00 
 Tue 2nd Dec 19:30 Bournemouth VS Everton
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 30 Nov 2025 15:55:25
+Last run ended : 30 Nov 2025 16:55:43
 
