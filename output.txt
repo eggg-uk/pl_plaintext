@@ -1,4 +1,4 @@
-Last run started : 06 Dec 2025 10:55:46
+Last run started : 06 Dec 2025 11:55:27
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -144,7 +144,7 @@ Sun 23rd Nov 14:00 Leeds VS Aston Villa (1-2)
 Sun 23rd Nov 16:30 Arsenal VS Spurs (4-1)
 Mon 24th Nov 20:00 Man Utd VS Everton (0-1)
 
-Last week: Gameweek 13, Deadline: 29 Nov 2025 13:30 
+Past week: Gameweek 13, Deadline: 29 Nov 2025 13:30 
 Sat 29th Nov 15:00 Brentford VS Burnley (3-1)
 Sat 29th Nov 15:00 Man City VS Leeds (3-2)
 Sat 29th Nov 15:00 Sunderland VS Bournemouth (3-2)
@@ -156,7 +156,7 @@ Sun 30th Nov 14:05 Nott'm Forest VS Brighton (0-2)
 Sun 30th Nov 14:05 West Ham VS Liverpool (0-2)
 Sun 30th Nov 16:30 Chelsea VS Arsenal (1-1)
 
-This week: Gameweek 14, Deadline: 02 Dec 2025 18:00 
+Last week: Gameweek 14, Deadline: 02 Dec 2025 18:00 
 Tue 2nd Dec 19:30 Bournemouth VS Everton (0-1)
 Tue 2nd Dec 19:30 Fulham VS Man City (4-5)
 Tue 2nd Dec 20:15 Newcastle VS Spurs (2-2)
@@ -168,7 +168,7 @@ Wed 3rd Dec 20:15 Leeds VS Chelsea (3-1)
 Wed 3rd Dec 20:15 Liverpool VS Sunderland (1-1)
 Thu 4th Dec 20:00 Man Utd VS West Ham (1-1)
 
-Next week: Gameweek 15, Deadline: 06 Dec 2025 11:00 
+This week: Gameweek 15, Deadline: 06 Dec 2025 11:00 
 Sat 6th Dec 12:30 Aston Villa VS Arsenal
 Sat 6th Dec 15:00 Bournemouth VS Chelsea
 Sat 6th Dec 15:00 Everton VS Nott'm Forest
@@ -180,7 +180,7 @@ Sun 7th Dec 14:00 Brighton VS West Ham
 Sun 7th Dec 16:30 Fulham VS Crystal Palace
 Mon 8th Dec 20:00 Wolves VS Man Utd
 
-Future week: Gameweek 16, Deadline: 13 Dec 2025 13:30 
+Next week: Gameweek 16, Deadline: 13 Dec 2025 13:30 
 Sat 13th Dec 15:00 Chelsea VS Everton
 Sat 13th Dec 15:00 Liverpool VS Brighton
 Sat 13th Dec 17:30 Burnley VS Fulham
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 06 Dec 2025 10:55:46
+Last run ended : 06 Dec 2025 11:55:27
 
