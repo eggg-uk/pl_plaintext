@@ -1,4 +1,4 @@
-Last run started : 13 Dec 2025 18:55:55
+Last run started : 13 Dec 2025 19:55:33
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -183,7 +183,7 @@ Mon 8th Dec 20:00 Wolves VS Man Utd (1-4)
 This week: Gameweek 16, Deadline: 13 Dec 2025 13:30 
 Sat 13th Dec 15:00 Chelsea VS Everton (2-0)
 Sat 13th Dec 15:00 Liverpool VS Brighton (2-0)
-Sat 13th Dec 17:30 Burnley VS Fulham (1-3)
+Sat 13th Dec 17:30 Burnley VS Fulham (2-3)
 Sat 13th Dec 20:00 Arsenal VS Wolves
 Sun 14th Dec 14:00 Crystal Palace VS Man City
 Sun 14th Dec 14:00 Nott'm Forest VS Spurs
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 13 Dec 2025 18:55:55
+Last run ended : 13 Dec 2025 19:55:33
 
