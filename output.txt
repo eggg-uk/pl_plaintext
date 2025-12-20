@@ -1,4 +1,4 @@
-Last run started : 20 Dec 2025 17:55:32
+Last run started : 20 Dec 2025 18:55:41
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -198,7 +198,7 @@ Sat 20th Dec 15:00 Bournemouth VS Burnley (1-1)
 Sat 20th Dec 15:00 Brighton VS Sunderland (0-0)
 Sat 20th Dec 15:00 Man City VS West Ham (3-0)
 Sat 20th Dec 15:00 Wolves VS Brentford (0-2)
-Sat 20th Dec 17:30 Spurs VS Liverpool (0-0)
+Sat 20th Dec 17:30 Spurs VS Liverpool (0-1)
 Sat 20th Dec 20:00 Everton VS Arsenal
 Sat 20th Dec 20:00 Leeds VS Crystal Palace
 Sun 21st Dec 16:30 Aston Villa VS Man Utd
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 20 Dec 2025 17:55:32
+Last run ended : 20 Dec 2025 18:55:41
 
