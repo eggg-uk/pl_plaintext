@@ -1,4 +1,4 @@
-Last run started : 05 Jan 2026 07:57:59
+Last run started : 05 Jan 2026 09:17:13
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -235,9 +235,9 @@ Sat 3rd Jan 15:00 Wolves VS West Ham (3-0)
 Sat 3rd Jan 17:30 Bournemouth VS Arsenal (2-3)
 Sun 4th Jan 12:30 Leeds VS Man Utd (1-1)
 Sun 4th Jan 15:00 Everton VS Brentford (2-4)
-Sun 4th Jan 15:00 Fulham VS Liverpool (2-2)
 Sun 4th Jan 15:00 Newcastle VS Crystal Palace (2-0)
 Sun 4th Jan 15:00 Spurs VS Sunderland (1-1)
+Sun 4th Jan 15:15 Fulham VS Liverpool (2-2)
 Sun 4th Jan 17:30 Man City VS Chelsea (1-1)
 
 Next week: Gameweek 21, Deadline: 06 Jan 2026 18:30 
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 05 Jan 2026 07:57:59
+Last run ended : 05 Jan 2026 09:17:13
 
