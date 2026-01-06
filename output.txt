@@ -1,4 +1,4 @@
-Last run started : 06 Jan 2026 19:55:51
+Last run started : 06 Jan 2026 20:55:25
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -241,7 +241,7 @@ Sun 4th Jan 15:15 Fulham VS Liverpool (2-2)
 Sun 4th Jan 17:30 Man City VS Chelsea (1-1)
 
 This week: Gameweek 21, Deadline: 06 Jan 2026 18:30 
-Tue 6th Jan 20:00 West Ham VS Nott'm Forest
+Tue 6th Jan 20:00 West Ham VS Nott'm Forest (1-0)
 Wed 7th Jan 19:30 Bournemouth VS Spurs
 Wed 7th Jan 19:30 Brentford VS Sunderland
 Wed 7th Jan 19:30 Crystal Palace VS Aston Villa
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 06 Jan 2026 19:55:51
+Last run ended : 06 Jan 2026 20:55:25
 
