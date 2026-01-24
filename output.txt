@@ -1,4 +1,4 @@
-Last run started : 24 Jan 2026 10:55:30
+Last run started : 24 Jan 2026 11:55:25
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -240,7 +240,7 @@ Sun 4th Jan 15:00 Spurs VS Sunderland (1-1)
 Sun 4th Jan 15:15 Fulham VS Liverpool (2-2)
 Sun 4th Jan 17:30 Man City VS Chelsea (1-1)
 
-Last week: Gameweek 21, Deadline: 06 Jan 2026 18:30 
+Past week: Gameweek 21, Deadline: 06 Jan 2026 18:30 
 Tue 6th Jan 20:00 West Ham VS Nott'm Forest (1-2)
 Wed 7th Jan 19:30 Bournemouth VS Spurs (3-2)
 Wed 7th Jan 19:30 Brentford VS Sunderland (3-0)
@@ -252,7 +252,7 @@ Wed 7th Jan 20:15 Burnley VS Man Utd (2-2)
 Wed 7th Jan 20:15 Newcastle VS Leeds (4-3)
 Thu 8th Jan 20:00 Arsenal VS Liverpool (0-0)
 
-This week: Gameweek 22, Deadline: 17 Jan 2026 11:00 
+Last week: Gameweek 22, Deadline: 17 Jan 2026 11:00 
 Sat 17th Jan 12:30 Man Utd VS Man City (2-0)
 Sat 17th Jan 15:00 Chelsea VS Brentford (2-0)
 Sat 17th Jan 15:00 Leeds VS Fulham (1-0)
@@ -264,7 +264,7 @@ Sun 18th Jan 14:00 Wolves VS Newcastle (0-0)
 Sun 18th Jan 16:30 Aston Villa VS Everton (0-1)
 Mon 19th Jan 20:00 Brighton VS Bournemouth (1-1)
 
-Next week: Gameweek 23, Deadline: 24 Jan 2026 11:00 
+This week: Gameweek 23, Deadline: 24 Jan 2026 11:00 
 Sat 24th Jan 12:30 West Ham VS Sunderland
 Sat 24th Jan 15:00 Burnley VS Spurs
 Sat 24th Jan 15:00 Fulham VS Brighton
@@ -276,7 +276,7 @@ Sun 25th Jan 14:00 Newcastle VS Aston Villa
 Sun 25th Jan 16:30 Arsenal VS Man Utd
 Mon 26th Jan 20:00 Everton VS Leeds
 
-Future week: Gameweek 24, Deadline: 31 Jan 2026 13:30 
+Next week: Gameweek 24, Deadline: 31 Jan 2026 13:30 
 Sat 31st Jan 15:00 Brighton VS Everton
 Sat 31st Jan 15:00 Leeds VS Arsenal
 Sat 31st Jan 15:00 Wolves VS Bournemouth
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 24 Jan 2026 10:55:30
+Last run ended : 24 Jan 2026 11:55:25
 
