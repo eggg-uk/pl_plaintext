@@ -1,4 +1,4 @@
-Last run started : 18 Feb 2026 20:22:57
+Last run started : 18 Feb 2026 21:23:04
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -311,7 +311,7 @@ Wed 11th Feb 19:30 Nott'm Forest VS Wolves (0-0)
 Wed 11th Feb 19:40 Crystal Palace VS Burnley (2-3)
 Wed 11th Feb 20:15 Sunderland VS Liverpool (0-1)
 Thu 12th Feb 20:00 Brentford VS Arsenal (1-1)
-Wed 18th Feb 20:00 Wolves VS Arsenal (0-1)
+Wed 18th Feb 20:00 Wolves VS Arsenal (0-2)
 
 Next week: Gameweek 27, Deadline: 21 Feb 2026 13:30 
 Sat 21st Feb 15:00 Aston Villa VS Leeds
@@ -455,5 +455,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 18 Feb 2026 20:22:57
+Last run ended : 18 Feb 2026 21:23:04
 
