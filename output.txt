@@ -1,4 +1,4 @@
-Last run started : 01 Mar 2026 17:01:48
+Last run started : 01 Mar 2026 17:57:57
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -335,7 +335,7 @@ Sat 28th Feb 17:30 Leeds VS Man City (0-1)
 Sun 1st Mar 14:00 Brighton VS Nott'm Forest (2-1)
 Sun 1st Mar 14:00 Fulham VS Spurs (2-1)
 Sun 1st Mar 14:00 Man Utd VS Crystal Palace (2-1)
-Sun 1st Mar 16:30 Arsenal VS Chelsea (1-0)
+Sun 1st Mar 16:30 Arsenal VS Chelsea (1-1)
 
 Next week: Gameweek 29, Deadline: 03 Mar 2026 18:00 
 Tue 3rd Mar 19:30 Bournemouth VS Brentford
@@ -455,5 +455,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 01 Mar 2026 17:01:48
+Last run ended : 01 Mar 2026 17:57:57
 
