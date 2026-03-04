@@ -1,4 +1,4 @@
-Last run started : 04 Mar 2026 16:25:22
+Last run started : 04 Mar 2026 17:27:12
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -371,41 +371,41 @@ Sun 22nd Mar 12:00 Newcastle VS Sunderland
 Sun 22nd Mar 14:15 Aston Villa VS West Ham
 Sun 22nd Mar 14:15 Spurs VS Nott'm Forest
 
-Future week: Gameweek 32, Deadline: 11 Apr 2026 13:30 
-Sat 11th Apr 15:00 Arsenal VS Bournemouth
+Future week: Gameweek 32, Deadline: 10 Apr 2026 18:30 
+Fri 10th Apr 20:00 West Ham VS Wolves
+Sat 11th Apr 12:30 Arsenal VS Bournemouth
 Sat 11th Apr 15:00 Brentford VS Everton
 Sat 11th Apr 15:00 Burnley VS Brighton
-Sat 11th Apr 15:00 Chelsea VS Man City
 Sat 11th Apr 15:00 Crystal Palace VS Newcastle
-Sat 11th Apr 15:00 Liverpool VS Fulham
-Sat 11th Apr 15:00 Man Utd VS Leeds
 Sat 11th Apr 15:00 Nott'm Forest VS Aston Villa
-Sat 11th Apr 15:00 Sunderland VS Spurs
-Sat 11th Apr 15:00 West Ham VS Wolves
+Sat 11th Apr 17:30 Liverpool VS Fulham
+Sun 12th Apr 14:00 Sunderland VS Spurs
+Sun 12th Apr 16:30 Chelsea VS Man City
+Mon 13th Apr 20:00 Man Utd VS Leeds
 
-Future week: Gameweek 33, Deadline: 18 Apr 2026 13:30 
+Future week: Gameweek 33, Deadline: 18 Apr 2026 11:00 
+Sat 18th Apr 12:30 Brentford VS Fulham
 Sat 18th Apr 15:00 Aston Villa VS Sunderland
-Sat 18th Apr 15:00 Brentford VS Fulham
-Sat 18th Apr 15:00 Chelsea VS Man Utd
-Sat 18th Apr 15:00 Crystal Palace VS West Ham
-Sat 18th Apr 15:00 Everton VS Liverpool
 Sat 18th Apr 15:00 Leeds VS Wolves
-Sat 18th Apr 15:00 Man City VS Arsenal
 Sat 18th Apr 15:00 Newcastle VS Bournemouth
 Sat 18th Apr 15:00 Nott'm Forest VS Burnley
-Sat 18th Apr 15:00 Spurs VS Brighton
+Sat 18th Apr 17:30 Spurs VS Brighton
+Sat 18th Apr 20:00 Chelsea VS Man Utd
+Sun 19th Apr 14:00 Everton VS Liverpool
+Sun 19th Apr 16:30 Man City VS Arsenal
+Mon 20th Apr 20:00 Crystal Palace VS West Ham
 
-Future week: Gameweek 34, Deadline: 25 Apr 2026 13:30 
-Sat 25th Apr 15:00 Arsenal VS Newcastle
+Future week: Gameweek 34, Deadline: 24 Apr 2026 18:30 
+Fri 24th Apr 20:00 Sunderland VS Nott'm Forest
+Sat 25th Apr 12:30 Fulham VS Aston Villa
 Sat 25th Apr 15:00 Bournemouth VS Leeds
-Sat 25th Apr 15:00 Brighton VS Chelsea
-Sat 25th Apr 15:00 Burnley VS Man City
-Sat 25th Apr 15:00 Fulham VS Aston Villa
 Sat 25th Apr 15:00 Liverpool VS Crystal Palace
-Sat 25th Apr 15:00 Man Utd VS Brentford
-Sat 25th Apr 15:00 Sunderland VS Nott'm Forest
 Sat 25th Apr 15:00 West Ham VS Everton
 Sat 25th Apr 15:00 Wolves VS Spurs
+Sat 25th Apr 17:30 Arsenal VS Newcastle
+Sun 26th Apr 14:00 Burnley VS Man City
+Sun 26th Apr 16:30 Brighton VS Chelsea
+Mon 27th Apr 20:00 Man Utd VS Brentford
 
 Future week: Gameweek 35, Deadline: 02 May 2026 13:30 
 Sat 2nd May 15:00 Arsenal VS Fulham
@@ -455,5 +455,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 04 Mar 2026 16:25:22
+Last run ended : 04 Mar 2026 17:27:12
 
