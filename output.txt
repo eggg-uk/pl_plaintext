@@ -1,4 +1,4 @@
-Last run started : 14 Mar 2026 16:00:43
+Last run started : 14 Mar 2026 17:12:45
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -351,7 +351,7 @@ Thu 5th Mar 20:00 Spurs VS Crystal Palace (1-3)
 
 This week: Gameweek 30, Deadline: 14 Mar 2026 13:30 
 Sat 14th Mar 15:00 Burnley VS Bournemouth (0-0)
-Sat 14th Mar 15:00 Sunderland VS Brighton (0-0)
+Sat 14th Mar 15:00 Sunderland VS Brighton (0-1)
 Sat 14th Mar 17:30 Arsenal VS Everton
 Sat 14th Mar 17:30 Chelsea VS Newcastle
 Sat 14th Mar 20:00 West Ham VS Man City
@@ -455,5 +455,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 14 Mar 2026 16:00:43
+Last run ended : 14 Mar 2026 17:12:45
 
