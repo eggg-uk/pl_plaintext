@@ -1,4 +1,4 @@
-Last run started : 21 Mar 2026 14:13:00
+Last run started : 21 Mar 2026 15:02:03
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -364,7 +364,7 @@ Mon 16th Mar 20:00 Brentford VS Wolves (2-2)
 This week: Gameweek 31, Deadline: 20 Mar 2026 18:30 
 Fri 20th Mar 20:00 Bournemouth VS Man Utd (2-2)
 Sat 21st Mar 12:30 Brighton VS Liverpool (2-1)
-Sat 21st Mar 15:00 Fulham VS Burnley
+Sat 21st Mar 15:00 Fulham VS Burnley (None-None)
 Sat 21st Mar 17:30 Everton VS Chelsea
 Sat 21st Mar 20:00 Leeds VS Brentford
 Sun 22nd Mar 12:00 Newcastle VS Sunderland
@@ -455,5 +455,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 21 Mar 2026 14:13:00
+Last run ended : 21 Mar 2026 15:02:03
 
