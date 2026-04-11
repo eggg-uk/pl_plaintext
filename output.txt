@@ -1,4 +1,4 @@
-Last run started : 11 Apr 2026 15:19:37
+Last run started : 11 Apr 2026 16:17:27
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -374,8 +374,8 @@ Sun 22nd Mar 14:15 Spurs VS Nott'm Forest (0-3)
 This week: Gameweek 32, Deadline: 10 Apr 2026 18:30 
 Fri 10th Apr 20:00 West Ham VS Wolves (4-0)
 Sat 11th Apr 12:30 Arsenal VS Bournemouth (1-2)
-Sat 11th Apr 15:00 Brentford VS Everton (1-1)
-Sat 11th Apr 15:00 Burnley VS Brighton (0-1)
+Sat 11th Apr 15:00 Brentford VS Everton (2-2)
+Sat 11th Apr 15:00 Burnley VS Brighton (0-2)
 Sat 11th Apr 17:30 Liverpool VS Fulham
 Sun 12th Apr 14:00 Crystal Palace VS Newcastle
 Sun 12th Apr 14:00 Nott'm Forest VS Aston Villa
@@ -455,5 +455,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 11 Apr 2026 15:19:37
+Last run ended : 11 Apr 2026 16:17:27
 
