@@ -1,4 +1,4 @@
-Last run started : 01 May 2026 17:43:34
+Last run started : 01 May 2026 18:47:45
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -383,7 +383,7 @@ Sun 12th Apr 14:00 Sunderland VS Spurs (1-0)
 Sun 12th Apr 16:30 Chelsea VS Man City (0-3)
 Mon 13th Apr 20:00 Man Utd VS Leeds (1-2)
 
-Last week: Gameweek 33, Deadline: 18 Apr 2026 11:00 
+Past week: Gameweek 33, Deadline: 18 Apr 2026 11:00 
 Sat 18th Apr 12:30 Brentford VS Fulham (0-0)
 Sat 18th Apr 15:00 Leeds VS Wolves (3-0)
 Sat 18th Apr 15:00 Newcastle VS Bournemouth (1-2)
@@ -398,7 +398,7 @@ Tue 21st Apr 20:00 Brighton VS Chelsea (3-0)
 Wed 22nd Apr 20:00 Bournemouth VS Leeds (2-2)
 Wed 22nd Apr 20:00 Burnley VS Man City (0-1)
 
-This week: Gameweek 34, Deadline: 24 Apr 2026 18:30 
+Last week: Gameweek 34, Deadline: 24 Apr 2026 18:30 
 Fri 24th Apr 20:00 Sunderland VS Nott'm Forest (0-5)
 Sat 25th Apr 12:30 Fulham VS Aston Villa (1-0)
 Sat 25th Apr 15:00 Liverpool VS Crystal Palace (3-1)
@@ -407,7 +407,7 @@ Sat 25th Apr 15:00 Wolves VS Spurs (0-1)
 Sat 25th Apr 17:30 Arsenal VS Newcastle (1-0)
 Mon 27th Apr 20:00 Man Utd VS Brentford (2-1)
 
-Next week: Gameweek 35, Deadline: 01 May 2026 18:30 
+This week: Gameweek 35, Deadline: 01 May 2026 18:30 
 Fri 1st May 20:00 Leeds VS Burnley
 Sat 2nd May 15:00 Brentford VS West Ham
 Sat 2nd May 15:00 Newcastle VS Brighton
@@ -419,7 +419,7 @@ Sun 3rd May 19:00 Aston Villa VS Spurs
 Mon 4th May 15:00 Chelsea VS Nott'm Forest
 Mon 4th May 20:00 Everton VS Man City
 
-Future week: Gameweek 36, Deadline: 09 May 2026 11:00 
+Next week: Gameweek 36, Deadline: 09 May 2026 11:00 
 Sat 9th May 12:30 Liverpool VS Chelsea
 Sat 9th May 15:00 Brighton VS Wolves
 Sat 9th May 15:00 Fulham VS Bournemouth
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 01 May 2026 17:43:34
+Last run ended : 01 May 2026 18:47:45
 
