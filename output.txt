@@ -1,4 +1,4 @@
-Last run started : 03 May 2026 17:34:27
+Last run started : 03 May 2026 18:36:49
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -415,7 +415,7 @@ Sat 2nd May 15:00 Wolves VS Sunderland (1-1)
 Sat 2nd May 17:30 Arsenal VS Fulham (3-0)
 Sun 3rd May 14:00 Bournemouth VS Crystal Palace (3-0)
 Sun 3rd May 15:30 Man Utd VS Liverpool (3-2)
-Sun 3rd May 19:00 Aston Villa VS Spurs
+Sun 3rd May 19:00 Aston Villa VS Spurs (0-2)
 Mon 4th May 15:00 Chelsea VS Nott'm Forest
 Mon 4th May 20:00 Everton VS Man City
 
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 03 May 2026 17:34:27
+Last run ended : 03 May 2026 18:36:49
 
