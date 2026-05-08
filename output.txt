@@ -1,4 +1,4 @@
-Last run started : 08 May 2026 08:14:34
+Last run started : 08 May 2026 10:09:57
 
 Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
 Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
@@ -432,8 +432,8 @@ Sun 10th May 16:30 West Ham VS Arsenal
 Mon 11th May 20:00 Spurs VS Leeds
 Wed 13th May 20:00 Man City VS Crystal Palace
 
-Future week: Gameweek 37, Deadline: 17 May 2026 11:00 
-Sun 17th May 12:30 Aston Villa VS Liverpool
+Future week: Gameweek 37, Deadline: 15 May 2026 18:30 
+Fri 15th May 20:00 Aston Villa VS Liverpool
 Sun 17th May 12:30 Man Utd VS Nott'm Forest
 Sun 17th May 15:00 Brentford VS Crystal Palace
 Sun 17th May 15:00 Everton VS Sunderland
@@ -456,5 +456,5 @@ Sun 24th May 16:00 Spurs VS Everton
 Sun 24th May 16:00 Sunderland VS Chelsea
 Sun 24th May 16:00 West Ham VS Leeds
 
-Last run ended : 08 May 2026 08:14:34
+Last run ended : 08 May 2026 10:09:57
 
