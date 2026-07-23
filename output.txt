@@ -1,460 +1,460 @@
-Last run started : 03 Oct 2025 00:17:04
+Last run started : 23 Jul 2026 12:15:12
 
-Past week: Gameweek 1, Deadline: 15 Aug 2025 18:30 
-Fri 15th Aug 20:00 Liverpool VS Bournemouth (4-2)
-Sat 16th Aug 12:30 Aston Villa VS Newcastle (0-0)
-Sat 16th Aug 15:00 Brighton VS Fulham (1-1)
-Sat 16th Aug 15:00 Spurs VS Burnley (3-0)
-Sat 16th Aug 15:00 Sunderland VS West Ham (3-0)
-Sat 16th Aug 17:30 Wolves VS Man City (0-4)
-Sun 17th Aug 14:00 Chelsea VS Crystal Palace (0-0)
-Sun 17th Aug 14:00 Nott'm Forest VS Brentford (3-1)
-Sun 17th Aug 16:30 Man Utd VS Arsenal (0-1)
-Mon 18th Aug 20:00 Leeds VS Everton (1-0)
+Next week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
+Fri 21st Aug 20:00 Arsenal VS Coventry City
+Sat 22nd Aug 12:30 Hull City VS Man Utd
+Sat 22nd Aug 15:00 Everton VS Crystal Palace
+Sat 22nd Aug 15:00 Ipswich Town VS Sunderland
+Sat 22nd Aug 15:00 Nott'm Forest VS Leeds
+Sat 22nd Aug 17:30 Brentford VS Spurs
+Sun 23rd Aug 14:00 Brighton VS Aston Villa
+Sun 23rd Aug 14:00 Man City VS Bournemouth
+Sun 23rd Aug 16:30 Newcastle VS Liverpool
+Mon 24th Aug 20:00 Fulham VS Chelsea
 
-Past week: Gameweek 2, Deadline: 22 Aug 2025 18:30 
-Fri 22nd Aug 20:00 West Ham VS Chelsea (1-5)
-Sat 23rd Aug 12:30 Man City VS Spurs (0-2)
-Sat 23rd Aug 15:00 Bournemouth VS Wolves (1-0)
-Sat 23rd Aug 15:00 Brentford VS Aston Villa (1-0)
-Sat 23rd Aug 15:00 Burnley VS Sunderland (2-0)
-Sat 23rd Aug 17:30 Arsenal VS Leeds (5-0)
-Sun 24th Aug 14:00 Crystal Palace VS Nott'm Forest (1-1)
-Sun 24th Aug 14:00 Everton VS Brighton (2-0)
-Sun 24th Aug 16:30 Fulham VS Man Utd (1-1)
-Mon 25th Aug 20:00 Newcastle VS Liverpool (2-3)
+Future week: Gameweek 2, Deadline: 28 Aug 2026 18:30 
+Fri 28th Aug 20:00 Crystal Palace VS Man City
+Sat 29th Aug 12:30 Liverpool VS Nott'm Forest
+Sat 29th Aug 15:00 Bournemouth VS Everton
+Sat 29th Aug 15:00 Coventry City VS Hull City
+Sat 29th Aug 17:30 Spurs VS Newcastle
+Sun 30th Aug 14:00 Chelsea VS Brighton
+Sun 30th Aug 14:00 Leeds VS Brentford
+Sun 30th Aug 14:00 Sunderland VS Fulham
+Sun 30th Aug 16:30 Man Utd VS Ipswich Town
+Mon 31st Aug 20:00 Aston Villa VS Arsenal
 
-Past week: Gameweek 3, Deadline: 30 Aug 2025 11:00 
-Sat 30th Aug 12:30 Chelsea VS Fulham (2-0)
-Sat 30th Aug 15:00 Man Utd VS Burnley (3-2)
-Sat 30th Aug 15:00 Spurs VS Bournemouth (0-1)
-Sat 30th Aug 15:00 Sunderland VS Brentford (2-1)
-Sat 30th Aug 15:00 Wolves VS Everton (2-3)
-Sat 30th Aug 17:30 Leeds VS Newcastle (0-0)
-Sun 31st Aug 14:00 Brighton VS Man City (2-1)
-Sun 31st Aug 14:00 Nott'm Forest VS West Ham (0-3)
-Sun 31st Aug 16:30 Liverpool VS Arsenal (1-0)
-Sun 31st Aug 19:00 Aston Villa VS Crystal Palace (0-3)
+Future week: Gameweek 3, Deadline: 04 Sep 2026 18:30 
+Fri 4th Sep 20:00 Ipswich Town VS Liverpool
+Sat 5th Sep 12:30 Newcastle VS Bournemouth
+Sat 5th Sep 15:00 Brentford VS Sunderland
+Sat 5th Sep 15:00 Brighton VS Leeds
+Sat 5th Sep 15:00 Fulham VS Crystal Palace
+Sat 5th Sep 15:00 Man City VS Coventry City
+Sat 5th Sep 15:00 Nott'm Forest VS Spurs
+Sat 5th Sep 17:30 Hull City VS Aston Villa
+Sun 6th Sep 14:00 Everton VS Man Utd
+Sun 6th Sep 16:30 Arsenal VS Chelsea
 
-Past week: Gameweek 4, Deadline: 13 Sep 2025 11:00 
-Sat 13th Sep 12:30 Arsenal VS Nott'm Forest (3-0)
-Sat 13th Sep 15:00 Bournemouth VS Brighton (2-1)
-Sat 13th Sep 15:00 Crystal Palace VS Sunderland (0-0)
-Sat 13th Sep 15:00 Everton VS Aston Villa (0-0)
-Sat 13th Sep 15:00 Fulham VS Leeds (1-0)
-Sat 13th Sep 15:00 Newcastle VS Wolves (1-0)
-Sat 13th Sep 17:30 West Ham VS Spurs (0-3)
-Sat 13th Sep 20:00 Brentford VS Chelsea (2-2)
-Sun 14th Sep 14:00 Burnley VS Liverpool (0-1)
-Sun 14th Sep 16:30 Man City VS Man Utd (3-0)
+Future week: Gameweek 4, Deadline: 12 Sep 2026 13:30 
+Sat 12th Sep 15:00 Aston Villa VS Nott'm Forest
+Sat 12th Sep 15:00 Bournemouth VS Brentford
+Sat 12th Sep 15:00 Chelsea VS Hull City
+Sat 12th Sep 15:00 Crystal Palace VS Ipswich Town
+Sat 12th Sep 15:00 Liverpool VS Fulham
+Sat 12th Sep 17:30 Spurs VS Everton
+Sat 12th Sep 20:00 Sunderland VS Arsenal
+Sun 13th Sep 14:00 Coventry City VS Brighton
+Sun 13th Sep 16:30 Man Utd VS Man City
+Mon 14th Sep 20:00 Leeds VS Newcastle
 
-Last week: Gameweek 5, Deadline: 20 Sep 2025 11:00 
-Sat 20th Sep 12:30 Liverpool VS Everton (2-1)
-Sat 20th Sep 15:00 Brighton VS Spurs (2-2)
-Sat 20th Sep 15:00 Burnley VS Nott'm Forest (1-1)
-Sat 20th Sep 15:00 West Ham VS Crystal Palace (1-2)
-Sat 20th Sep 15:00 Wolves VS Leeds (1-3)
-Sat 20th Sep 17:30 Man Utd VS Chelsea (2-1)
-Sat 20th Sep 20:00 Fulham VS Brentford (3-1)
-Sun 21st Sep 14:00 Bournemouth VS Newcastle (0-0)
-Sun 21st Sep 14:00 Sunderland VS Aston Villa (1-1)
-Sun 21st Sep 16:30 Arsenal VS Man City (1-1)
+Future week: Gameweek 5, Deadline: 18 Sep 2026 18:30 
+Fri 18th Sep 20:00 Brentford VS Chelsea
+Sat 19th Sep 12:30 Spurs VS Aston Villa
+Sat 19th Sep 15:00 Brighton VS Arsenal
+Sat 19th Sep 15:00 Everton VS Ipswich Town
+Sat 19th Sep 15:00 Leeds VS Crystal Palace
+Sat 19th Sep 15:00 Man City VS Sunderland
+Sat 19th Sep 15:00 Newcastle VS Hull City
+Sat 19th Sep 17:30 Nott'm Forest VS Coventry City
+Sun 20th Sep 14:00 Bournemouth VS Liverpool
+Sun 20th Sep 16:30 Fulham VS Man Utd
 
-This week: Gameweek 6, Deadline: 27 Sep 2025 11:00 
-Sat 27th Sep 12:30 Brentford VS Man Utd (3-1)
-Sat 27th Sep 15:00 Chelsea VS Brighton (1-3)
-Sat 27th Sep 15:00 Crystal Palace VS Liverpool (2-1)
-Sat 27th Sep 15:00 Leeds VS Bournemouth (2-2)
-Sat 27th Sep 15:00 Man City VS Burnley (5-1)
-Sat 27th Sep 17:30 Nott'm Forest VS Sunderland (0-1)
-Sat 27th Sep 20:00 Spurs VS Wolves (1-1)
-Sun 28th Sep 14:00 Aston Villa VS Fulham (3-1)
-Sun 28th Sep 16:30 Newcastle VS Arsenal (1-2)
-Mon 29th Sep 20:00 Everton VS West Ham (1-1)
+Future week: Gameweek 6, Deadline: 10 Oct 2026 13:30 
+Sat 10th Oct 15:00 Arsenal VS Leeds
+Sat 10th Oct 15:00 Aston Villa VS Brentford
+Sat 10th Oct 15:00 Chelsea VS Bournemouth
+Sat 10th Oct 15:00 Coventry City VS Newcastle
+Sat 10th Oct 15:00 Crystal Palace VS Nott'm Forest
+Sat 10th Oct 15:00 Hull City VS Everton
+Sat 10th Oct 15:00 Ipswich Town VS Fulham
+Sat 10th Oct 15:00 Liverpool VS Man City
+Sat 10th Oct 15:00 Man Utd VS Spurs
+Sat 10th Oct 15:00 Sunderland VS Brighton
 
-Next week: Gameweek 7, Deadline: 03 Oct 2025 18:30 
-Fri 3rd Oct 20:00 Bournemouth VS Fulham
-Sat 4th Oct 12:30 Leeds VS Spurs
-Sat 4th Oct 15:00 Arsenal VS West Ham
-Sat 4th Oct 15:00 Man Utd VS Sunderland
-Sat 4th Oct 17:30 Chelsea VS Liverpool
-Sun 5th Oct 14:00 Aston Villa VS Burnley
-Sun 5th Oct 14:00 Everton VS Crystal Palace
-Sun 5th Oct 14:00 Newcastle VS Nott'm Forest
-Sun 5th Oct 14:00 Wolves VS Brighton
-Sun 5th Oct 16:30 Brentford VS Man City
+Future week: Gameweek 7, Deadline: 17 Oct 2026 13:30 
+Sat 17th Oct 15:00 Bournemouth VS Sunderland
+Sat 17th Oct 15:00 Brentford VS Liverpool
+Sat 17th Oct 15:00 Brighton VS Crystal Palace
+Sat 17th Oct 15:00 Everton VS Chelsea
+Sat 17th Oct 15:00 Fulham VS Hull City
+Sat 17th Oct 15:00 Leeds VS Man Utd
+Sat 17th Oct 15:00 Man City VS Ipswich Town
+Sat 17th Oct 15:00 Newcastle VS Aston Villa
+Sat 17th Oct 15:00 Nott'm Forest VS Arsenal
+Sat 17th Oct 15:00 Spurs VS Coventry City
 
-Future week: Gameweek 8, Deadline: 18 Oct 2025 11:00 
-Sat 18th Oct 12:30 Nott'm Forest VS Chelsea
-Sat 18th Oct 15:00 Brighton VS Newcastle
-Sat 18th Oct 15:00 Burnley VS Leeds
-Sat 18th Oct 15:00 Crystal Palace VS Bournemouth
-Sat 18th Oct 15:00 Man City VS Everton
-Sat 18th Oct 15:00 Sunderland VS Wolves
-Sat 18th Oct 17:30 Fulham VS Arsenal
-Sun 19th Oct 14:00 Spurs VS Aston Villa
-Sun 19th Oct 16:30 Liverpool VS Man Utd
-Mon 20th Oct 20:00 West Ham VS Brentford
+Future week: Gameweek 8, Deadline: 24 Oct 2026 13:30 
+Sat 24th Oct 15:00 Arsenal VS Everton
+Sat 24th Oct 15:00 Aston Villa VS Man City
+Sat 24th Oct 15:00 Chelsea VS Spurs
+Sat 24th Oct 15:00 Coventry City VS Fulham
+Sat 24th Oct 15:00 Crystal Palace VS Newcastle
+Sat 24th Oct 15:00 Hull City VS Brentford
+Sat 24th Oct 15:00 Ipswich Town VS Nott'm Forest
+Sat 24th Oct 15:00 Liverpool VS Brighton
+Sat 24th Oct 15:00 Man Utd VS Bournemouth
+Sat 24th Oct 15:00 Sunderland VS Leeds
 
-Future week: Gameweek 9, Deadline: 24 Oct 2025 18:30 
-Fri 24th Oct 20:00 Leeds VS West Ham
-Sat 25th Oct 15:00 Chelsea VS Sunderland
-Sat 25th Oct 15:00 Newcastle VS Fulham
-Sat 25th Oct 17:30 Man Utd VS Brighton
-Sat 25th Oct 20:00 Brentford VS Liverpool
-Sun 26th Oct 14:00 Arsenal VS Crystal Palace
-Sun 26th Oct 14:00 Aston Villa VS Man City
-Sun 26th Oct 14:00 Bournemouth VS Nott'm Forest
-Sun 26th Oct 14:00 Wolves VS Burnley
-Sun 26th Oct 16:30 Everton VS Spurs
+Future week: Gameweek 9, Deadline: 31 Oct 2026 13:30 
+Sat 31st Oct 15:00 Aston Villa VS Fulham
+Sat 31st Oct 15:00 Bournemouth VS Leeds
+Sat 31st Oct 15:00 Brentford VS Nott'm Forest
+Sat 31st Oct 15:00 Chelsea VS Man Utd
+Sat 31st Oct 15:00 Coventry City VS Sunderland
+Sat 31st Oct 15:00 Hull City VS Ipswich Town
+Sat 31st Oct 15:00 Liverpool VS Arsenal
+Sat 31st Oct 15:00 Man City VS Brighton
+Sat 31st Oct 15:00 Newcastle VS Everton
+Sat 31st Oct 15:00 Spurs VS Crystal Palace
 
-Future week: Gameweek 10, Deadline: 01 Nov 2025 13:30 
-Sat 1st Nov 15:00 Brighton VS Leeds
-Sat 1st Nov 15:00 Burnley VS Arsenal
-Sat 1st Nov 15:00 Crystal Palace VS Brentford
-Sat 1st Nov 15:00 Fulham VS Wolves
-Sat 1st Nov 15:00 Nott'm Forest VS Man Utd
-Sat 1st Nov 17:30 Spurs VS Chelsea
-Sat 1st Nov 20:00 Liverpool VS Aston Villa
-Sun 2nd Nov 14:00 West Ham VS Newcastle
-Sun 2nd Nov 16:30 Man City VS Bournemouth
-Mon 3rd Nov 20:00 Sunderland VS Everton
+Future week: Gameweek 10, Deadline: 07 Nov 2026 13:30 
+Sat 7th Nov 15:00 Arsenal VS Hull City
+Sat 7th Nov 15:00 Brighton VS Brentford
+Sat 7th Nov 15:00 Crystal Palace VS Liverpool
+Sat 7th Nov 15:00 Everton VS Coventry City
+Sat 7th Nov 15:00 Fulham VS Newcastle
+Sat 7th Nov 15:00 Ipswich Town VS Bournemouth
+Sat 7th Nov 15:00 Leeds VS Spurs
+Sat 7th Nov 15:00 Man Utd VS Aston Villa
+Sat 7th Nov 15:00 Nott'm Forest VS Man City
+Sat 7th Nov 15:00 Sunderland VS Chelsea
 
-Future week: Gameweek 11, Deadline: 08 Nov 2025 11:00 
-Sat 8th Nov 12:30 Spurs VS Man Utd
-Sat 8th Nov 15:00 Everton VS Fulham
-Sat 8th Nov 15:00 West Ham VS Burnley
-Sat 8th Nov 17:30 Sunderland VS Arsenal
-Sat 8th Nov 20:00 Chelsea VS Wolves
-Sun 9th Nov 14:00 Aston Villa VS Bournemouth
-Sun 9th Nov 14:00 Brentford VS Newcastle
-Sun 9th Nov 14:00 Crystal Palace VS Brighton
-Sun 9th Nov 14:00 Nott'm Forest VS Leeds
-Sun 9th Nov 16:30 Man City VS Liverpool
+Future week: Gameweek 11, Deadline: 21 Nov 2026 13:30 
+Sat 21st Nov 15:00 Aston Villa VS Sunderland
+Sat 21st Nov 15:00 Bournemouth VS Nott'm Forest
+Sat 21st Nov 15:00 Brentford VS Everton
+Sat 21st Nov 15:00 Chelsea VS Leeds
+Sat 21st Nov 15:00 Coventry City VS Crystal Palace
+Sat 21st Nov 15:00 Hull City VS Brighton
+Sat 21st Nov 15:00 Liverpool VS Man Utd
+Sat 21st Nov 15:00 Man City VS Fulham
+Sat 21st Nov 15:00 Newcastle VS Arsenal
+Sat 21st Nov 15:00 Spurs VS Ipswich Town
 
-Future week: Gameweek 12, Deadline: 22 Nov 2025 11:00 
-Sat 22nd Nov 12:30 Burnley VS Chelsea
-Sat 22nd Nov 15:00 Bournemouth VS West Ham
-Sat 22nd Nov 15:00 Brighton VS Brentford
-Sat 22nd Nov 15:00 Fulham VS Sunderland
-Sat 22nd Nov 15:00 Liverpool VS Nott'm Forest
-Sat 22nd Nov 15:00 Wolves VS Crystal Palace
-Sat 22nd Nov 17:30 Newcastle VS Man City
-Sun 23rd Nov 14:00 Leeds VS Aston Villa
-Sun 23rd Nov 16:30 Arsenal VS Spurs
-Mon 24th Nov 20:00 Man Utd VS Everton
+Future week: Gameweek 12, Deadline: 28 Nov 2026 13:30 
+Sat 28th Nov 15:00 Arsenal VS Man City
+Sat 28th Nov 15:00 Brighton VS Newcastle
+Sat 28th Nov 15:00 Crystal Palace VS Hull City
+Sat 28th Nov 15:00 Everton VS Liverpool
+Sat 28th Nov 15:00 Fulham VS Bournemouth
+Sat 28th Nov 15:00 Ipswich Town VS Aston Villa
+Sat 28th Nov 15:00 Leeds VS Coventry City
+Sat 28th Nov 15:00 Man Utd VS Brentford
+Sat 28th Nov 15:00 Nott'm Forest VS Chelsea
+Sat 28th Nov 15:00 Sunderland VS Spurs
 
-Future week: Gameweek 13, Deadline: 29 Nov 2025 13:30 
-Sat 29th Nov 15:00 Brentford VS Burnley
-Sat 29th Nov 15:00 Man City VS Leeds
-Sat 29th Nov 15:00 Sunderland VS Bournemouth
-Sat 29th Nov 17:30 Everton VS Newcastle
-Sat 29th Nov 20:00 Spurs VS Fulham
-Sun 30th Nov 12:00 Crystal Palace VS Man Utd
-Sun 30th Nov 14:05 Aston Villa VS Wolves
-Sun 30th Nov 14:05 Nott'm Forest VS Brighton
-Sun 30th Nov 14:05 West Ham VS Liverpool
-Sun 30th Nov 16:30 Chelsea VS Arsenal
+Future week: Gameweek 13, Deadline: 02 Dec 2026 18:30 
+Wed 2nd Dec 20:00 Aston Villa VS Everton
+Wed 2nd Dec 20:00 Bournemouth VS Brighton
+Wed 2nd Dec 20:00 Brentford VS Arsenal
+Wed 2nd Dec 20:00 Chelsea VS Crystal Palace
+Wed 2nd Dec 20:00 Coventry City VS Ipswich Town
+Wed 2nd Dec 20:00 Hull City VS Nott'm Forest
+Wed 2nd Dec 20:00 Liverpool VS Sunderland
+Wed 2nd Dec 20:00 Man City VS Leeds
+Wed 2nd Dec 20:00 Newcastle VS Man Utd
+Wed 2nd Dec 20:00 Spurs VS Fulham
 
-Future week: Gameweek 14, Deadline: 03 Dec 2025 18:30 
-Wed 3rd Dec 20:00 Arsenal VS Brentford
-Wed 3rd Dec 20:00 Bournemouth VS Everton
-Wed 3rd Dec 20:00 Brighton VS Aston Villa
-Wed 3rd Dec 20:00 Burnley VS Crystal Palace
-Wed 3rd Dec 20:00 Fulham VS Man City
-Wed 3rd Dec 20:00 Leeds VS Chelsea
-Wed 3rd Dec 20:00 Liverpool VS Sunderland
-Wed 3rd Dec 20:00 Man Utd VS West Ham
-Wed 3rd Dec 20:00 Newcastle VS Spurs
-Wed 3rd Dec 20:00 Wolves VS Nott'm Forest
+Future week: Gameweek 14, Deadline: 05 Dec 2026 13:30 
+Sat 5th Dec 15:00 Aston Villa VS Crystal Palace
+Sat 5th Dec 15:00 Bournemouth VS Hull City
+Sat 5th Dec 15:00 Brentford VS Man City
+Sat 5th Dec 15:00 Chelsea VS Liverpool
+Sat 5th Dec 15:00 Everton VS Fulham
+Sat 5th Dec 15:00 Leeds VS Ipswich Town
+Sat 5th Dec 15:00 Man Utd VS Coventry City
+Sat 5th Dec 15:00 Newcastle VS Sunderland
+Sat 5th Dec 15:00 Nott'm Forest VS Brighton
+Sat 5th Dec 15:00 Spurs VS Arsenal
 
-Future week: Gameweek 15, Deadline: 06 Dec 2025 13:30 
-Sat 6th Dec 15:00 Aston Villa VS Arsenal
-Sat 6th Dec 15:00 Bournemouth VS Chelsea
-Sat 6th Dec 15:00 Brighton VS West Ham
-Sat 6th Dec 15:00 Everton VS Nott'm Forest
-Sat 6th Dec 15:00 Fulham VS Crystal Palace
-Sat 6th Dec 15:00 Leeds VS Liverpool
-Sat 6th Dec 15:00 Man City VS Sunderland
-Sat 6th Dec 15:00 Newcastle VS Burnley
-Sat 6th Dec 15:00 Spurs VS Brentford
-Sat 6th Dec 15:00 Wolves VS Man Utd
+Future week: Gameweek 15, Deadline: 12 Dec 2026 13:30 
+Sat 12th Dec 15:00 Arsenal VS Bournemouth
+Sat 12th Dec 15:00 Brighton VS Everton
+Sat 12th Dec 15:00 Coventry City VS Aston Villa
+Sat 12th Dec 15:00 Crystal Palace VS Man Utd
+Sat 12th Dec 15:00 Fulham VS Brentford
+Sat 12th Dec 15:00 Hull City VS Spurs
+Sat 12th Dec 15:00 Ipswich Town VS Newcastle
+Sat 12th Dec 15:00 Liverpool VS Leeds
+Sat 12th Dec 15:00 Man City VS Chelsea
+Sat 12th Dec 15:00 Sunderland VS Nott'm Forest
 
-Future week: Gameweek 16, Deadline: 13 Dec 2025 13:30 
-Sat 13th Dec 15:00 Arsenal VS Wolves
-Sat 13th Dec 15:00 Brentford VS Leeds
-Sat 13th Dec 15:00 Burnley VS Fulham
-Sat 13th Dec 15:00 Chelsea VS Everton
-Sat 13th Dec 15:00 Crystal Palace VS Man City
-Sat 13th Dec 15:00 Liverpool VS Brighton
-Sat 13th Dec 15:00 Man Utd VS Bournemouth
-Sat 13th Dec 15:00 Nott'm Forest VS Spurs
-Sat 13th Dec 15:00 Sunderland VS Newcastle
-Sat 13th Dec 15:00 West Ham VS Aston Villa
+Future week: Gameweek 16, Deadline: 19 Dec 2026 13:30 
+Sat 19th Dec 15:00 Arsenal VS Man Utd
+Sat 19th Dec 15:00 Bournemouth VS Coventry City
+Sat 19th Dec 15:00 Brentford VS Newcastle
+Sat 19th Dec 15:00 Brighton VS Ipswich Town
+Sat 19th Dec 15:00 Chelsea VS Aston Villa
+Sat 19th Dec 15:00 Leeds VS Fulham
+Sat 19th Dec 15:00 Liverpool VS Spurs
+Sat 19th Dec 15:00 Man City VS Hull City
+Sat 19th Dec 15:00 Nott'm Forest VS Everton
+Sat 19th Dec 15:00 Sunderland VS Crystal Palace
 
-Future week: Gameweek 17, Deadline: 20 Dec 2025 13:30 
-Sat 20th Dec 15:00 Aston Villa VS Man Utd
-Sat 20th Dec 15:00 Bournemouth VS Burnley
-Sat 20th Dec 15:00 Brighton VS Sunderland
-Sat 20th Dec 15:00 Everton VS Arsenal
-Sat 20th Dec 15:00 Fulham VS Nott'm Forest
-Sat 20th Dec 15:00 Leeds VS Crystal Palace
-Sat 20th Dec 15:00 Man City VS West Ham
-Sat 20th Dec 15:00 Newcastle VS Chelsea
-Sat 20th Dec 15:00 Spurs VS Liverpool
-Sat 20th Dec 15:00 Wolves VS Brentford
+Future week: Gameweek 17, Deadline: 26 Dec 2026 13:30 
+Sat 26th Dec 15:00 Aston Villa VS Leeds
+Sat 26th Dec 15:00 Coventry City VS Chelsea
+Sat 26th Dec 15:00 Crystal Palace VS Arsenal
+Sat 26th Dec 15:00 Everton VS Sunderland
+Sat 26th Dec 15:00 Fulham VS Brighton
+Sat 26th Dec 15:00 Hull City VS Liverpool
+Sat 26th Dec 15:00 Ipswich Town VS Brentford
+Sat 26th Dec 15:00 Man Utd VS Nott'm Forest
+Sat 26th Dec 15:00 Newcastle VS Man City
+Sat 26th Dec 15:00 Spurs VS Bournemouth
 
-Future week: Gameweek 18, Deadline: 27 Dec 2025 13:30 
-Sat 27th Dec 15:00 Arsenal VS Brighton
-Sat 27th Dec 15:00 Brentford VS Bournemouth
-Sat 27th Dec 15:00 Burnley VS Everton
-Sat 27th Dec 15:00 Chelsea VS Aston Villa
-Sat 27th Dec 15:00 Crystal Palace VS Spurs
-Sat 27th Dec 15:00 Liverpool VS Wolves
-Sat 27th Dec 15:00 Man Utd VS Newcastle
-Sat 27th Dec 15:00 Nott'm Forest VS Man City
-Sat 27th Dec 15:00 Sunderland VS Leeds
-Sat 27th Dec 15:00 West Ham VS Fulham
+Future week: Gameweek 18, Deadline: 30 Dec 2026 18:30 
+Wed 30th Dec 20:00 Aston Villa VS Liverpool
+Wed 30th Dec 20:00 Coventry City VS Brentford
+Wed 30th Dec 20:00 Crystal Palace VS Bournemouth
+Wed 30th Dec 20:00 Everton VS Man City
+Wed 30th Dec 20:00 Fulham VS Arsenal
+Wed 30th Dec 20:00 Hull City VS Leeds
+Wed 30th Dec 20:00 Ipswich Town VS Chelsea
+Wed 30th Dec 20:00 Man Utd VS Sunderland
+Wed 30th Dec 20:00 Newcastle VS Nott'm Forest
+Wed 30th Dec 20:00 Spurs VS Brighton
 
-Future week: Gameweek 19, Deadline: 30 Dec 2025 18:30 
-Tue 30th Dec 20:00 Arsenal VS Aston Villa
-Tue 30th Dec 20:00 Brentford VS Spurs
-Tue 30th Dec 20:00 Burnley VS Newcastle
-Tue 30th Dec 20:00 Chelsea VS Bournemouth
-Tue 30th Dec 20:00 Crystal Palace VS Fulham
-Tue 30th Dec 20:00 Liverpool VS Leeds
-Tue 30th Dec 20:00 Man Utd VS Wolves
-Tue 30th Dec 20:00 Nott'm Forest VS Everton
-Tue 30th Dec 20:00 Sunderland VS Man City
-Tue 30th Dec 20:00 West Ham VS Brighton
+Future week: Gameweek 19, Deadline: 02 Jan 2027 13:30 
+Sat 2nd Jan 15:00 Arsenal VS Ipswich Town
+Sat 2nd Jan 15:00 Bournemouth VS Aston Villa
+Sat 2nd Jan 15:00 Brentford VS Crystal Palace
+Sat 2nd Jan 15:00 Brighton VS Man Utd
+Sat 2nd Jan 15:00 Chelsea VS Newcastle
+Sat 2nd Jan 15:00 Leeds VS Everton
+Sat 2nd Jan 15:00 Liverpool VS Coventry City
+Sat 2nd Jan 15:00 Man City VS Spurs
+Sat 2nd Jan 15:00 Nott'm Forest VS Fulham
+Sat 2nd Jan 15:00 Sunderland VS Hull City
 
-Future week: Gameweek 20, Deadline: 03 Jan 2026 13:30 
-Sat 3rd Jan 15:00 Aston Villa VS Nott'm Forest
-Sat 3rd Jan 15:00 Bournemouth VS Arsenal
-Sat 3rd Jan 15:00 Brighton VS Burnley
-Sat 3rd Jan 15:00 Everton VS Brentford
-Sat 3rd Jan 15:00 Fulham VS Liverpool
-Sat 3rd Jan 15:00 Leeds VS Man Utd
-Sat 3rd Jan 15:00 Man City VS Chelsea
-Sat 3rd Jan 15:00 Newcastle VS Crystal Palace
-Sat 3rd Jan 15:00 Spurs VS Sunderland
-Sat 3rd Jan 15:00 Wolves VS West Ham
+Future week: Gameweek 20, Deadline: 06 Jan 2027 18:30 
+Wed 6th Jan 20:00 Arsenal VS Brentford
+Wed 6th Jan 20:00 Brighton VS Bournemouth
+Wed 6th Jan 20:00 Crystal Palace VS Chelsea
+Wed 6th Jan 20:00 Everton VS Aston Villa
+Wed 6th Jan 20:00 Fulham VS Spurs
+Wed 6th Jan 20:00 Ipswich Town VS Coventry City
+Wed 6th Jan 20:00 Leeds VS Man City
+Wed 6th Jan 20:00 Man Utd VS Newcastle
+Wed 6th Jan 20:00 Nott'm Forest VS Hull City
+Wed 6th Jan 20:00 Sunderland VS Liverpool
 
-Future week: Gameweek 21, Deadline: 07 Jan 2026 18:30 
-Wed 7th Jan 20:00 Arsenal VS Liverpool
-Wed 7th Jan 20:00 Bournemouth VS Spurs
-Wed 7th Jan 20:00 Brentford VS Sunderland
-Wed 7th Jan 20:00 Burnley VS Man Utd
-Wed 7th Jan 20:00 Crystal Palace VS Aston Villa
-Wed 7th Jan 20:00 Everton VS Wolves
-Wed 7th Jan 20:00 Fulham VS Chelsea
-Wed 7th Jan 20:00 Man City VS Brighton
-Wed 7th Jan 20:00 Newcastle VS Leeds
-Wed 7th Jan 20:00 West Ham VS Nott'm Forest
+Future week: Gameweek 21, Deadline: 16 Jan 2027 13:30 
+Sat 16th Jan 15:00 Aston Villa VS Man Utd
+Sat 16th Jan 15:00 Bournemouth VS Ipswich Town
+Sat 16th Jan 15:00 Brentford VS Brighton
+Sat 16th Jan 15:00 Chelsea VS Sunderland
+Sat 16th Jan 15:00 Coventry City VS Everton
+Sat 16th Jan 15:00 Hull City VS Arsenal
+Sat 16th Jan 15:00 Liverpool VS Crystal Palace
+Sat 16th Jan 15:00 Man City VS Nott'm Forest
+Sat 16th Jan 15:00 Newcastle VS Fulham
+Sat 16th Jan 15:00 Spurs VS Leeds
 
-Future week: Gameweek 22, Deadline: 17 Jan 2026 13:30 
-Sat 17th Jan 15:00 Aston Villa VS Everton
-Sat 17th Jan 15:00 Brighton VS Bournemouth
-Sat 17th Jan 15:00 Chelsea VS Brentford
-Sat 17th Jan 15:00 Leeds VS Fulham
-Sat 17th Jan 15:00 Liverpool VS Burnley
-Sat 17th Jan 15:00 Man Utd VS Man City
-Sat 17th Jan 15:00 Nott'm Forest VS Arsenal
-Sat 17th Jan 15:00 Spurs VS West Ham
-Sat 17th Jan 15:00 Sunderland VS Crystal Palace
-Sat 17th Jan 15:00 Wolves VS Newcastle
+Future week: Gameweek 22, Deadline: 23 Jan 2027 13:30 
+Sat 23rd Jan 15:00 Arsenal VS Newcastle
+Sat 23rd Jan 15:00 Brighton VS Man City
+Sat 23rd Jan 15:00 Crystal Palace VS Spurs
+Sat 23rd Jan 15:00 Everton VS Brentford
+Sat 23rd Jan 15:00 Fulham VS Aston Villa
+Sat 23rd Jan 15:00 Ipswich Town VS Hull City
+Sat 23rd Jan 15:00 Leeds VS Chelsea
+Sat 23rd Jan 15:00 Man Utd VS Liverpool
+Sat 23rd Jan 15:00 Nott'm Forest VS Bournemouth
+Sat 23rd Jan 15:00 Sunderland VS Coventry City
 
-Future week: Gameweek 23, Deadline: 24 Jan 2026 13:30 
-Sat 24th Jan 15:00 Arsenal VS Man Utd
-Sat 24th Jan 15:00 Bournemouth VS Liverpool
-Sat 24th Jan 15:00 Brentford VS Nott'm Forest
-Sat 24th Jan 15:00 Burnley VS Spurs
-Sat 24th Jan 15:00 Crystal Palace VS Chelsea
-Sat 24th Jan 15:00 Everton VS Leeds
-Sat 24th Jan 15:00 Fulham VS Brighton
-Sat 24th Jan 15:00 Man City VS Wolves
-Sat 24th Jan 15:00 Newcastle VS Aston Villa
-Sat 24th Jan 15:00 West Ham VS Sunderland
+Future week: Gameweek 23, Deadline: 30 Jan 2027 13:30 
+Sat 30th Jan 15:00 Aston Villa VS Ipswich Town
+Sat 30th Jan 15:00 Bournemouth VS Fulham
+Sat 30th Jan 15:00 Brentford VS Man Utd
+Sat 30th Jan 15:00 Chelsea VS Nott'm Forest
+Sat 30th Jan 15:00 Coventry City VS Leeds
+Sat 30th Jan 15:00 Hull City VS Crystal Palace
+Sat 30th Jan 15:00 Liverpool VS Everton
+Sat 30th Jan 15:00 Man City VS Arsenal
+Sat 30th Jan 15:00 Newcastle VS Brighton
+Sat 30th Jan 15:00 Spurs VS Sunderland
 
-Future week: Gameweek 24, Deadline: 31 Jan 2026 13:30 
-Sat 31st Jan 15:00 Aston Villa VS Brentford
-Sat 31st Jan 15:00 Brighton VS Everton
-Sat 31st Jan 15:00 Chelsea VS West Ham
-Sat 31st Jan 15:00 Leeds VS Arsenal
-Sat 31st Jan 15:00 Liverpool VS Newcastle
-Sat 31st Jan 15:00 Man Utd VS Fulham
-Sat 31st Jan 15:00 Nott'm Forest VS Crystal Palace
-Sat 31st Jan 15:00 Spurs VS Man City
-Sat 31st Jan 15:00 Sunderland VS Burnley
-Sat 31st Jan 15:00 Wolves VS Bournemouth
+Future week: Gameweek 24, Deadline: 06 Feb 2027 13:30 
+Sat 6th Feb 15:00 Arsenal VS Liverpool
+Sat 6th Feb 15:00 Brighton VS Hull City
+Sat 6th Feb 15:00 Crystal Palace VS Coventry City
+Sat 6th Feb 15:00 Everton VS Newcastle
+Sat 6th Feb 15:00 Fulham VS Man City
+Sat 6th Feb 15:00 Ipswich Town VS Spurs
+Sat 6th Feb 15:00 Leeds VS Bournemouth
+Sat 6th Feb 15:00 Man Utd VS Chelsea
+Sat 6th Feb 15:00 Nott'm Forest VS Brentford
+Sat 6th Feb 15:00 Sunderland VS Aston Villa
 
-Future week: Gameweek 25, Deadline: 07 Feb 2026 13:30 
-Sat 7th Feb 15:00 Arsenal VS Sunderland
-Sat 7th Feb 15:00 Bournemouth VS Aston Villa
-Sat 7th Feb 15:00 Brighton VS Crystal Palace
-Sat 7th Feb 15:00 Burnley VS West Ham
-Sat 7th Feb 15:00 Fulham VS Everton
-Sat 7th Feb 15:00 Leeds VS Nott'm Forest
-Sat 7th Feb 15:00 Liverpool VS Man City
-Sat 7th Feb 15:00 Man Utd VS Spurs
-Sat 7th Feb 15:00 Newcastle VS Brentford
-Sat 7th Feb 15:00 Wolves VS Chelsea
+Future week: Gameweek 25, Deadline: 10 Feb 2027 18:30 
+Wed 10th Feb 20:00 Aston Villa VS Bournemouth
+Wed 10th Feb 20:00 Coventry City VS Liverpool
+Wed 10th Feb 20:00 Crystal Palace VS Brentford
+Wed 10th Feb 20:00 Everton VS Leeds
+Wed 10th Feb 20:00 Fulham VS Nott'm Forest
+Wed 10th Feb 20:00 Hull City VS Sunderland
+Wed 10th Feb 20:00 Ipswich Town VS Arsenal
+Wed 10th Feb 20:00 Man Utd VS Brighton
+Wed 10th Feb 20:00 Newcastle VS Chelsea
+Wed 10th Feb 20:00 Spurs VS Man City
 
-Future week: Gameweek 26, Deadline: 11 Feb 2026 18:30 
-Wed 11th Feb 20:00 Aston Villa VS Brighton
-Wed 11th Feb 20:00 Brentford VS Arsenal
-Wed 11th Feb 20:00 Chelsea VS Leeds
-Wed 11th Feb 20:00 Crystal Palace VS Burnley
-Wed 11th Feb 20:00 Everton VS Bournemouth
-Wed 11th Feb 20:00 Man City VS Fulham
-Wed 11th Feb 20:00 Nott'm Forest VS Wolves
-Wed 11th Feb 20:00 Spurs VS Newcastle
-Wed 11th Feb 20:00 Sunderland VS Liverpool
-Wed 11th Feb 20:00 West Ham VS Man Utd
+Future week: Gameweek 26, Deadline: 20 Feb 2027 13:30 
+Sat 20th Feb 15:00 Arsenal VS Fulham
+Sat 20th Feb 15:00 Bournemouth VS Crystal Palace
+Sat 20th Feb 15:00 Brentford VS Coventry City
+Sat 20th Feb 15:00 Brighton VS Spurs
+Sat 20th Feb 15:00 Chelsea VS Ipswich Town
+Sat 20th Feb 15:00 Leeds VS Aston Villa
+Sat 20th Feb 15:00 Liverpool VS Hull City
+Sat 20th Feb 15:00 Man City VS Newcastle
+Sat 20th Feb 15:00 Nott'm Forest VS Man Utd
+Sat 20th Feb 15:00 Sunderland VS Everton
 
-Future week: Gameweek 27, Deadline: 21 Feb 2026 13:30 
-Sat 21st Feb 15:00 Aston Villa VS Leeds
-Sat 21st Feb 15:00 Brentford VS Brighton
-Sat 21st Feb 15:00 Chelsea VS Burnley
-Sat 21st Feb 15:00 Crystal Palace VS Wolves
-Sat 21st Feb 15:00 Everton VS Man Utd
-Sat 21st Feb 15:00 Man City VS Newcastle
-Sat 21st Feb 15:00 Nott'm Forest VS Liverpool
-Sat 21st Feb 15:00 Spurs VS Arsenal
-Sat 21st Feb 15:00 Sunderland VS Fulham
-Sat 21st Feb 15:00 West Ham VS Bournemouth
+Future week: Gameweek 27, Deadline: 27 Feb 2027 13:30 
+Sat 27th Feb 15:00 Aston Villa VS Chelsea
+Sat 27th Feb 15:00 Coventry City VS Bournemouth
+Sat 27th Feb 15:00 Crystal Palace VS Sunderland
+Sat 27th Feb 15:00 Everton VS Nott'm Forest
+Sat 27th Feb 15:00 Fulham VS Leeds
+Sat 27th Feb 15:00 Hull City VS Man City
+Sat 27th Feb 15:00 Ipswich Town VS Brighton
+Sat 27th Feb 15:00 Man Utd VS Arsenal
+Sat 27th Feb 15:00 Newcastle VS Brentford
+Sat 27th Feb 15:00 Spurs VS Liverpool
 
-Future week: Gameweek 28, Deadline: 28 Feb 2026 13:30 
-Sat 28th Feb 15:00 Arsenal VS Chelsea
-Sat 28th Feb 15:00 Bournemouth VS Sunderland
-Sat 28th Feb 15:00 Brighton VS Nott'm Forest
-Sat 28th Feb 15:00 Burnley VS Brentford
-Sat 28th Feb 15:00 Fulham VS Spurs
-Sat 28th Feb 15:00 Leeds VS Man City
-Sat 28th Feb 15:00 Liverpool VS West Ham
-Sat 28th Feb 15:00 Man Utd VS Crystal Palace
-Sat 28th Feb 15:00 Newcastle VS Everton
-Sat 28th Feb 15:00 Wolves VS Aston Villa
+Future week: Gameweek 28, Deadline: 03 Mar 2027 18:30 
+Wed 3rd Mar 20:00 Arsenal VS Crystal Palace
+Wed 3rd Mar 20:00 Bournemouth VS Spurs
+Wed 3rd Mar 20:00 Brentford VS Ipswich Town
+Wed 3rd Mar 20:00 Brighton VS Fulham
+Wed 3rd Mar 20:00 Chelsea VS Coventry City
+Wed 3rd Mar 20:00 Leeds VS Hull City
+Wed 3rd Mar 20:00 Liverpool VS Aston Villa
+Wed 3rd Mar 20:00 Man City VS Everton
+Wed 3rd Mar 20:00 Nott'm Forest VS Newcastle
+Wed 3rd Mar 20:00 Sunderland VS Man Utd
 
-Future week: Gameweek 29, Deadline: 04 Mar 2026 18:30 
-Wed 4th Mar 20:00 Aston Villa VS Chelsea
-Wed 4th Mar 20:00 Bournemouth VS Brentford
-Wed 4th Mar 20:00 Brighton VS Arsenal
-Wed 4th Mar 20:00 Everton VS Burnley
-Wed 4th Mar 20:00 Fulham VS West Ham
-Wed 4th Mar 20:00 Leeds VS Sunderland
-Wed 4th Mar 20:00 Man City VS Nott'm Forest
-Wed 4th Mar 20:00 Newcastle VS Man Utd
-Wed 4th Mar 20:00 Spurs VS Crystal Palace
-Wed 4th Mar 20:00 Wolves VS Liverpool
+Future week: Gameweek 29, Deadline: 13 Mar 2027 13:30 
+Sat 13th Mar 15:00 Aston Villa VS Hull City
+Sat 13th Mar 15:00 Bournemouth VS Newcastle
+Sat 13th Mar 15:00 Chelsea VS Arsenal
+Sat 13th Mar 15:00 Coventry City VS Man City
+Sat 13th Mar 15:00 Crystal Palace VS Fulham
+Sat 13th Mar 15:00 Leeds VS Brighton
+Sat 13th Mar 15:00 Liverpool VS Ipswich Town
+Sat 13th Mar 15:00 Man Utd VS Everton
+Sat 13th Mar 15:00 Spurs VS Nott'm Forest
+Sat 13th Mar 15:00 Sunderland VS Brentford
 
-Future week: Gameweek 30, Deadline: 14 Mar 2026 13:30 
-Sat 14th Mar 15:00 Arsenal VS Everton
-Sat 14th Mar 15:00 Brentford VS Wolves
-Sat 14th Mar 15:00 Burnley VS Bournemouth
-Sat 14th Mar 15:00 Chelsea VS Newcastle
-Sat 14th Mar 15:00 Crystal Palace VS Leeds
-Sat 14th Mar 15:00 Liverpool VS Spurs
-Sat 14th Mar 15:00 Man Utd VS Aston Villa
-Sat 14th Mar 15:00 Nott'm Forest VS Fulham
-Sat 14th Mar 15:00 Sunderland VS Brighton
-Sat 14th Mar 15:00 West Ham VS Man City
+Future week: Gameweek 30, Deadline: 20 Mar 2027 13:30 
+Sat 20th Mar 15:00 Arsenal VS Sunderland
+Sat 20th Mar 15:00 Brentford VS Bournemouth
+Sat 20th Mar 15:00 Brighton VS Coventry City
+Sat 20th Mar 15:00 Everton VS Spurs
+Sat 20th Mar 15:00 Fulham VS Liverpool
+Sat 20th Mar 15:00 Hull City VS Chelsea
+Sat 20th Mar 15:00 Ipswich Town VS Crystal Palace
+Sat 20th Mar 15:00 Man City VS Man Utd
+Sat 20th Mar 15:00 Newcastle VS Leeds
+Sat 20th Mar 15:00 Nott'm Forest VS Aston Villa
 
-Future week: Gameweek 31, Deadline: 21 Mar 2026 13:30 
-Sat 21st Mar 15:00 Aston Villa VS West Ham
-Sat 21st Mar 15:00 Bournemouth VS Man Utd
-Sat 21st Mar 15:00 Brighton VS Liverpool
-Sat 21st Mar 15:00 Everton VS Chelsea
-Sat 21st Mar 15:00 Fulham VS Burnley
-Sat 21st Mar 15:00 Leeds VS Brentford
-Sat 21st Mar 15:00 Man City VS Crystal Palace
-Sat 21st Mar 15:00 Newcastle VS Sunderland
-Sat 21st Mar 15:00 Spurs VS Nott'm Forest
-Sat 21st Mar 15:00 Wolves VS Arsenal
+Future week: Gameweek 31, Deadline: 10 Apr 2027 13:30 
+Sat 10th Apr 15:00 Aston Villa VS Brighton
+Sat 10th Apr 15:00 Bournemouth VS Man City
+Sat 10th Apr 15:00 Chelsea VS Fulham
+Sat 10th Apr 15:00 Coventry City VS Arsenal
+Sat 10th Apr 15:00 Crystal Palace VS Everton
+Sat 10th Apr 15:00 Leeds VS Nott'm Forest
+Sat 10th Apr 15:00 Liverpool VS Newcastle
+Sat 10th Apr 15:00 Man Utd VS Hull City
+Sat 10th Apr 15:00 Spurs VS Brentford
+Sat 10th Apr 15:00 Sunderland VS Ipswich Town
 
-Future week: Gameweek 32, Deadline: 11 Apr 2026 13:30 
-Sat 11th Apr 15:00 Arsenal VS Bournemouth
-Sat 11th Apr 15:00 Brentford VS Everton
-Sat 11th Apr 15:00 Burnley VS Brighton
-Sat 11th Apr 15:00 Chelsea VS Man City
-Sat 11th Apr 15:00 Crystal Palace VS Newcastle
-Sat 11th Apr 15:00 Liverpool VS Fulham
-Sat 11th Apr 15:00 Man Utd VS Leeds
-Sat 11th Apr 15:00 Nott'm Forest VS Aston Villa
-Sat 11th Apr 15:00 Sunderland VS Spurs
-Sat 11th Apr 15:00 West Ham VS Wolves
+Future week: Gameweek 32, Deadline: 17 Apr 2027 13:30 
+Sat 17th Apr 15:00 Arsenal VS Aston Villa
+Sat 17th Apr 15:00 Brentford VS Leeds
+Sat 17th Apr 15:00 Brighton VS Chelsea
+Sat 17th Apr 15:00 Everton VS Bournemouth
+Sat 17th Apr 15:00 Fulham VS Sunderland
+Sat 17th Apr 15:00 Hull City VS Coventry City
+Sat 17th Apr 15:00 Ipswich Town VS Man Utd
+Sat 17th Apr 15:00 Man City VS Crystal Palace
+Sat 17th Apr 15:00 Newcastle VS Spurs
+Sat 17th Apr 15:00 Nott'm Forest VS Liverpool
 
-Future week: Gameweek 33, Deadline: 18 Apr 2026 13:30 
-Sat 18th Apr 15:00 Aston Villa VS Sunderland
-Sat 18th Apr 15:00 Brentford VS Fulham
-Sat 18th Apr 15:00 Chelsea VS Man Utd
-Sat 18th Apr 15:00 Crystal Palace VS West Ham
-Sat 18th Apr 15:00 Everton VS Liverpool
-Sat 18th Apr 15:00 Leeds VS Wolves
-Sat 18th Apr 15:00 Man City VS Arsenal
-Sat 18th Apr 15:00 Newcastle VS Bournemouth
-Sat 18th Apr 15:00 Nott'm Forest VS Burnley
-Sat 18th Apr 15:00 Spurs VS Brighton
+Future week: Gameweek 33, Deadline: 24 Apr 2027 13:30 
+Sat 24th Apr 15:00 Aston Villa VS Coventry City
+Sat 24th Apr 15:00 Bournemouth VS Arsenal
+Sat 24th Apr 15:00 Brentford VS Fulham
+Sat 24th Apr 15:00 Chelsea VS Man City
+Sat 24th Apr 15:00 Everton VS Brighton
+Sat 24th Apr 15:00 Leeds VS Liverpool
+Sat 24th Apr 15:00 Man Utd VS Crystal Palace
+Sat 24th Apr 15:00 Newcastle VS Ipswich Town
+Sat 24th Apr 15:00 Nott'm Forest VS Sunderland
+Sat 24th Apr 15:00 Spurs VS Hull City
 
-Future week: Gameweek 34, Deadline: 25 Apr 2026 13:30 
-Sat 25th Apr 15:00 Arsenal VS Newcastle
-Sat 25th Apr 15:00 Bournemouth VS Leeds
-Sat 25th Apr 15:00 Brighton VS Chelsea
-Sat 25th Apr 15:00 Burnley VS Man City
-Sat 25th Apr 15:00 Fulham VS Aston Villa
-Sat 25th Apr 15:00 Liverpool VS Crystal Palace
-Sat 25th Apr 15:00 Man Utd VS Brentford
-Sat 25th Apr 15:00 Sunderland VS Nott'm Forest
-Sat 25th Apr 15:00 West Ham VS Everton
-Sat 25th Apr 15:00 Wolves VS Spurs
+Future week: Gameweek 34, Deadline: 01 May 2027 13:30 
+Sat 1st May 15:00 Arsenal VS Spurs
+Sat 1st May 15:00 Brighton VS Nott'm Forest
+Sat 1st May 15:00 Coventry City VS Man Utd
+Sat 1st May 15:00 Crystal Palace VS Aston Villa
+Sat 1st May 15:00 Fulham VS Everton
+Sat 1st May 15:00 Hull City VS Bournemouth
+Sat 1st May 15:00 Ipswich Town VS Leeds
+Sat 1st May 15:00 Liverpool VS Chelsea
+Sat 1st May 15:00 Man City VS Brentford
+Sat 1st May 15:00 Sunderland VS Newcastle
 
-Future week: Gameweek 35, Deadline: 02 May 2026 13:30 
-Sat 2nd May 15:00 Arsenal VS Fulham
-Sat 2nd May 15:00 Aston Villa VS Spurs
-Sat 2nd May 15:00 Bournemouth VS Crystal Palace
-Sat 2nd May 15:00 Brentford VS West Ham
-Sat 2nd May 15:00 Chelsea VS Nott'm Forest
-Sat 2nd May 15:00 Everton VS Man City
-Sat 2nd May 15:00 Leeds VS Burnley
-Sat 2nd May 15:00 Man Utd VS Liverpool
-Sat 2nd May 15:00 Newcastle VS Brighton
-Sat 2nd May 15:00 Wolves VS Sunderland
+Future week: Gameweek 35, Deadline: 08 May 2027 13:30 
+Sat 8th May 15:00 Bournemouth VS Man Utd
+Sat 8th May 15:00 Brentford VS Aston Villa
+Sat 8th May 15:00 Brighton VS Sunderland
+Sat 8th May 15:00 Everton VS Hull City
+Sat 8th May 15:00 Fulham VS Ipswich Town
+Sat 8th May 15:00 Leeds VS Arsenal
+Sat 8th May 15:00 Man City VS Liverpool
+Sat 8th May 15:00 Newcastle VS Coventry City
+Sat 8th May 15:00 Nott'm Forest VS Crystal Palace
+Sat 8th May 15:00 Spurs VS Chelsea
 
-Future week: Gameweek 36, Deadline: 09 May 2026 13:30 
-Sat 9th May 15:00 Brighton VS Wolves
-Sat 9th May 15:00 Burnley VS Aston Villa
-Sat 9th May 15:00 Crystal Palace VS Everton
-Sat 9th May 15:00 Fulham VS Bournemouth
-Sat 9th May 15:00 Liverpool VS Chelsea
-Sat 9th May 15:00 Man City VS Brentford
-Sat 9th May 15:00 Nott'm Forest VS Newcastle
-Sat 9th May 15:00 Spurs VS Leeds
-Sat 9th May 15:00 Sunderland VS Man Utd
-Sat 9th May 15:00 West Ham VS Arsenal
+Future week: Gameweek 36, Deadline: 15 May 2027 13:30 
+Sat 15th May 15:00 Arsenal VS Nott'm Forest
+Sat 15th May 15:00 Aston Villa VS Newcastle
+Sat 15th May 15:00 Chelsea VS Everton
+Sat 15th May 15:00 Coventry City VS Spurs
+Sat 15th May 15:00 Crystal Palace VS Brighton
+Sat 15th May 15:00 Hull City VS Fulham
+Sat 15th May 15:00 Ipswich Town VS Man City
+Sat 15th May 15:00 Liverpool VS Brentford
+Sat 15th May 15:00 Man Utd VS Leeds
+Sat 15th May 15:00 Sunderland VS Bournemouth
 
-Future week: Gameweek 37, Deadline: 17 May 2026 13:30 
-Sun 17th May 15:00 Arsenal VS Burnley
-Sun 17th May 15:00 Aston Villa VS Liverpool
-Sun 17th May 15:00 Bournemouth VS Man City
-Sun 17th May 15:00 Brentford VS Crystal Palace
-Sun 17th May 15:00 Chelsea VS Spurs
-Sun 17th May 15:00 Everton VS Sunderland
-Sun 17th May 15:00 Leeds VS Brighton
-Sun 17th May 15:00 Man Utd VS Nott'm Forest
-Sun 17th May 15:00 Newcastle VS West Ham
-Sun 17th May 15:00 Wolves VS Fulham
+Future week: Gameweek 37, Deadline: 23 May 2027 13:30 
+Sun 23rd May 15:00 Bournemouth VS Chelsea
+Sun 23rd May 15:00 Brentford VS Hull City
+Sun 23rd May 15:00 Brighton VS Liverpool
+Sun 23rd May 15:00 Everton VS Arsenal
+Sun 23rd May 15:00 Fulham VS Coventry City
+Sun 23rd May 15:00 Leeds VS Sunderland
+Sun 23rd May 15:00 Man City VS Aston Villa
+Sun 23rd May 15:00 Newcastle VS Crystal Palace
+Sun 23rd May 15:00 Nott'm Forest VS Ipswich Town
+Sun 23rd May 15:00 Spurs VS Man Utd
 
-Future week: Gameweek 38, Deadline: 24 May 2026 14:30 
-Sun 24th May 16:00 Brighton VS Man Utd
-Sun 24th May 16:00 Burnley VS Wolves
-Sun 24th May 16:00 Crystal Palace VS Arsenal
-Sun 24th May 16:00 Fulham VS Newcastle
-Sun 24th May 16:00 Liverpool VS Brentford
-Sun 24th May 16:00 Man City VS Aston Villa
-Sun 24th May 16:00 Nott'm Forest VS Bournemouth
-Sun 24th May 16:00 Spurs VS Everton
-Sun 24th May 16:00 Sunderland VS Chelsea
-Sun 24th May 16:00 West Ham VS Leeds
+Future week: Gameweek 38, Deadline: 30 May 2027 14:30 
+Sun 30th May 16:00 Arsenal VS Brighton
+Sun 30th May 16:00 Aston Villa VS Spurs
+Sun 30th May 16:00 Chelsea VS Brentford
+Sun 30th May 16:00 Coventry City VS Nott'm Forest
+Sun 30th May 16:00 Crystal Palace VS Leeds
+Sun 30th May 16:00 Hull City VS Newcastle
+Sun 30th May 16:00 Ipswich Town VS Everton
+Sun 30th May 16:00 Liverpool VS Bournemouth
+Sun 30th May 16:00 Man Utd VS Fulham
+Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 03 Oct 2025 00:17:04
+Last run ended : 23 Jul 2026 12:15:12
 
