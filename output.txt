@@ -1,4 +1,4 @@
-Last run started : 17 Aug 2026 21:09:53
+Last run started : 17 Aug 2026 22:02:20
 
 Next week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City
@@ -60,53 +60,53 @@ Sat 19th Sep 17:30 Nott'm Forest VS Coventry City
 Sun 20th Sep 14:00 Bournemouth VS Liverpool
 Sun 20th Sep 16:30 Fulham VS Man Utd
 
-Future week: Gameweek 6, Deadline: 10 Oct 2026 13:30 
-Sat 10th Oct 15:00 Arsenal VS Leeds
+Future week: Gameweek 6, Deadline: 10 Oct 2026 11:00 
+Sat 10th Oct 12:30 Arsenal VS Leeds
 Sat 10th Oct 15:00 Aston Villa VS Brentford
 Sat 10th Oct 15:00 Chelsea VS Bournemouth
-Sat 10th Oct 15:00 Coventry City VS Newcastle
-Sat 10th Oct 15:00 Crystal Palace VS Nott'm Forest
-Sat 10th Oct 15:00 Hull City VS Everton
 Sat 10th Oct 15:00 Ipswich Town VS Fulham
-Sat 10th Oct 15:00 Liverpool VS Man City
-Sat 10th Oct 15:00 Man Utd VS Spurs
 Sat 10th Oct 15:00 Sunderland VS Brighton
+Sat 10th Oct 17:30 Man Utd VS Spurs
+Sun 11th Oct 14:00 Crystal Palace VS Nott'm Forest
+Sun 11th Oct 14:00 Hull City VS Everton
+Sun 11th Oct 16:30 Liverpool VS Man City
+Mon 12th Oct 20:00 Coventry City VS Newcastle
 
-Future week: Gameweek 7, Deadline: 17 Oct 2026 13:30 
-Sat 17th Oct 15:00 Bournemouth VS Sunderland
+Future week: Gameweek 7, Deadline: 17 Oct 2026 11:00 
+Sat 17th Oct 12:30 Everton VS Chelsea
 Sat 17th Oct 15:00 Brentford VS Liverpool
-Sat 17th Oct 15:00 Brighton VS Crystal Palace
-Sat 17th Oct 15:00 Everton VS Chelsea
 Sat 17th Oct 15:00 Fulham VS Hull City
-Sat 17th Oct 15:00 Leeds VS Man Utd
 Sat 17th Oct 15:00 Man City VS Ipswich Town
-Sat 17th Oct 15:00 Newcastle VS Aston Villa
-Sat 17th Oct 15:00 Nott'm Forest VS Arsenal
-Sat 17th Oct 15:00 Spurs VS Coventry City
+Sat 17th Oct 17:30 Newcastle VS Aston Villa
+Sun 18th Oct 14:00 Bournemouth VS Sunderland
+Sun 18th Oct 14:00 Brighton VS Crystal Palace
+Sun 18th Oct 14:00 Leeds VS Man Utd
+Sun 18th Oct 16:30 Nott'm Forest VS Arsenal
+Mon 19th Oct 20:00 Spurs VS Coventry City
 
-Future week: Gameweek 8, Deadline: 24 Oct 2026 13:30 
+Future week: Gameweek 8, Deadline: 23 Oct 2026 18:30 
+Fri 23rd Oct 20:00 Ipswich Town VS Nott'm Forest
+Sat 24th Oct 12:30 Aston Villa VS Man City
 Sat 24th Oct 15:00 Arsenal VS Everton
-Sat 24th Oct 15:00 Aston Villa VS Man City
-Sat 24th Oct 15:00 Chelsea VS Spurs
 Sat 24th Oct 15:00 Coventry City VS Fulham
-Sat 24th Oct 15:00 Crystal Palace VS Newcastle
-Sat 24th Oct 15:00 Hull City VS Brentford
-Sat 24th Oct 15:00 Ipswich Town VS Nott'm Forest
 Sat 24th Oct 15:00 Liverpool VS Brighton
-Sat 24th Oct 15:00 Man Utd VS Bournemouth
-Sat 24th Oct 15:00 Sunderland VS Leeds
+Sat 24th Oct 17:30 Chelsea VS Spurs
+Sun 25th Oct 14:00 Crystal Palace VS Newcastle
+Sun 25th Oct 14:00 Hull City VS Brentford
+Sun 25th Oct 14:00 Man Utd VS Bournemouth
+Sun 25th Oct 16:30 Sunderland VS Leeds
 
-Future week: Gameweek 9, Deadline: 31 Oct 2026 13:30 
-Sat 31st Oct 15:00 Aston Villa VS Fulham
+Future week: Gameweek 9, Deadline: 31 Oct 2026 11:00 
+Sat 31st Oct 12:30 Chelsea VS Man Utd
 Sat 31st Oct 15:00 Bournemouth VS Leeds
 Sat 31st Oct 15:00 Brentford VS Nott'm Forest
-Sat 31st Oct 15:00 Chelsea VS Man Utd
 Sat 31st Oct 15:00 Coventry City VS Sunderland
 Sat 31st Oct 15:00 Hull City VS Ipswich Town
-Sat 31st Oct 15:00 Liverpool VS Arsenal
 Sat 31st Oct 15:00 Man City VS Brighton
-Sat 31st Oct 15:00 Newcastle VS Everton
-Sat 31st Oct 15:00 Spurs VS Crystal Palace
+Sat 31st Oct 17:30 Spurs VS Crystal Palace
+Sun 1st Nov 14:00 Aston Villa VS Fulham
+Sun 1st Nov 16:30 Liverpool VS Arsenal
+Mon 2nd Nov 20:00 Newcastle VS Everton
 
 Future week: Gameweek 10, Deadline: 07 Nov 2026 13:30 
 Sat 7th Nov 15:00 Arsenal VS Hull City
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 17 Aug 2026 21:09:53
+Last run ended : 17 Aug 2026 22:02:20
 
