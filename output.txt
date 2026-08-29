@@ -1,4 +1,4 @@
-Last run started : 28 Aug 2026 19:36:16
+Last run started : 29 Aug 2026 02:27:52
 
 Last week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -13,7 +13,7 @@ Sun 23rd Aug 16:30 Newcastle VS Liverpool (2-2)
 Mon 24th Aug 20:00 Fulham VS Chelsea (2-3)
 
 This week: Gameweek 2, Deadline: 28 Aug 2026 18:30 
-Fri 28th Aug 20:00 Crystal Palace VS Man City (0-1)
+Fri 28th Aug 20:00 Crystal Palace VS Man City (1-4)
 Sat 29th Aug 12:30 Liverpool VS Nott'm Forest
 Sat 29th Aug 15:00 Bournemouth VS Everton
 Sat 29th Aug 15:00 Coventry City VS Hull City
@@ -54,10 +54,10 @@ Sat 19th Sep 12:30 Spurs VS Aston Villa
 Sat 19th Sep 15:00 Brighton VS Arsenal
 Sat 19th Sep 15:00 Everton VS Ipswich Town
 Sat 19th Sep 15:00 Leeds VS Crystal Palace
-Sat 19th Sep 15:00 Man City VS Sunderland
 Sat 19th Sep 15:00 Newcastle VS Hull City
 Sat 19th Sep 17:30 Nott'm Forest VS Coventry City
 Sun 20th Sep 14:00 Bournemouth VS Liverpool
+Sun 20th Sep 14:00 Man City VS Sunderland
 Sun 20th Sep 16:30 Fulham VS Man Utd
 
 Future week: Gameweek 6, Deadline: 10 Oct 2026 11:00 
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 28 Aug 2026 19:36:16
+Last run ended : 29 Aug 2026 02:27:52
 
