@@ -1,4 +1,4 @@
-Last run started : 04 Sep 2026 18:34:17
+Last run started : 04 Sep 2026 21:03:57
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -25,7 +25,7 @@ Sun 30th Aug 16:30 Man Utd VS Ipswich Town (5-2)
 Mon 31st Aug 20:00 Aston Villa VS Arsenal (0-1)
 
 This week: Gameweek 3, Deadline: 04 Sep 2026 18:30 
-Fri 4th Sep 20:00 Ipswich Town VS Liverpool
+Fri 4th Sep 20:00 Ipswich Town VS Liverpool (0-2)
 Sat 5th Sep 12:30 Newcastle VS Bournemouth
 Sat 5th Sep 15:00 Brentford VS Sunderland
 Sat 5th Sep 15:00 Brighton VS Leeds
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 04 Sep 2026 18:34:17
+Last run ended : 04 Sep 2026 21:03:57
 
