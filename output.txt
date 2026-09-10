@@ -1,4 +1,4 @@
-Last run started : 10 Sep 2026 11:52:16
+Last run started : 10 Sep 2026 15:13:31
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -192,53 +192,53 @@ Sat 19th Dec 15:00 Man City VS Hull City
 Sat 19th Dec 15:00 Nott'm Forest VS Everton
 Sat 19th Dec 15:00 Sunderland VS Crystal Palace
 
-Future week: Gameweek 17, Deadline: 26 Dec 2026 13:30 
-Sat 26th Dec 15:00 Aston Villa VS Leeds
-Sat 26th Dec 15:00 Coventry City VS Chelsea
-Sat 26th Dec 15:00 Crystal Palace VS Arsenal
+Future week: Gameweek 17, Deadline: 26 Dec 2026 11:00 
+Sat 26th Dec 12:30 Aston Villa VS Leeds
 Sat 26th Dec 15:00 Everton VS Sunderland
 Sat 26th Dec 15:00 Fulham VS Brighton
-Sat 26th Dec 15:00 Hull City VS Liverpool
 Sat 26th Dec 15:00 Ipswich Town VS Brentford
-Sat 26th Dec 15:00 Man Utd VS Nott'm Forest
-Sat 26th Dec 15:00 Newcastle VS Man City
 Sat 26th Dec 15:00 Spurs VS Bournemouth
+Sat 26th Dec 17:30 Hull City VS Liverpool
+Sat 26th Dec 20:00 Newcastle VS Man City
+Sun 27th Dec 14:00 Coventry City VS Chelsea
+Sun 27th Dec 16:30 Man Utd VS Nott'm Forest
+Sun 27th Dec 19:00 Crystal Palace VS Arsenal
 
-Future week: Gameweek 18, Deadline: 30 Dec 2026 18:30 
-Wed 30th Dec 20:00 Aston Villa VS Liverpool
-Wed 30th Dec 20:00 Coventry City VS Brentford
-Wed 30th Dec 20:00 Crystal Palace VS Bournemouth
-Wed 30th Dec 20:00 Everton VS Man City
-Wed 30th Dec 20:00 Fulham VS Arsenal
-Wed 30th Dec 20:00 Hull City VS Leeds
-Wed 30th Dec 20:00 Ipswich Town VS Chelsea
-Wed 30th Dec 20:00 Man Utd VS Sunderland
-Wed 30th Dec 20:00 Newcastle VS Nott'm Forest
-Wed 30th Dec 20:00 Spurs VS Brighton
+Future week: Gameweek 18, Deadline: 29 Dec 2026 18:00 
+Tue 29th Dec 19:30 Hull City VS Leeds
+Tue 29th Dec 19:30 Spurs VS Brighton
+Tue 29th Dec 20:15 Everton VS Man City
+Wed 30th Dec 19:30 Coventry City VS Brentford
+Wed 30th Dec 19:30 Crystal Palace VS Bournemouth
+Wed 30th Dec 19:30 Fulham VS Arsenal
+Wed 30th Dec 19:30 Man Utd VS Sunderland
+Wed 30th Dec 19:30 Newcastle VS Nott'm Forest
+Wed 30th Dec 20:15 Aston Villa VS Liverpool
+Wed 30th Dec 20:15 Ipswich Town VS Chelsea
 
-Future week: Gameweek 19, Deadline: 02 Jan 2027 13:30 
+Future week: Gameweek 19, Deadline: 01 Jan 2027 18:30 
+Fri 1st Jan 20:00 Leeds VS Everton
+Sat 2nd Jan 12:30 Brighton VS Man Utd
 Sat 2nd Jan 15:00 Arsenal VS Ipswich Town
-Sat 2nd Jan 15:00 Bournemouth VS Aston Villa
 Sat 2nd Jan 15:00 Brentford VS Crystal Palace
-Sat 2nd Jan 15:00 Brighton VS Man Utd
-Sat 2nd Jan 15:00 Chelsea VS Newcastle
-Sat 2nd Jan 15:00 Leeds VS Everton
 Sat 2nd Jan 15:00 Liverpool VS Coventry City
-Sat 2nd Jan 15:00 Man City VS Spurs
 Sat 2nd Jan 15:00 Nott'm Forest VS Fulham
 Sat 2nd Jan 15:00 Sunderland VS Hull City
+Sat 2nd Jan 17:30 Bournemouth VS Aston Villa
+Sun 3rd Jan 14:00 Chelsea VS Newcastle
+Sun 3rd Jan 16:30 Man City VS Spurs
 
-Future week: Gameweek 20, Deadline: 06 Jan 2027 18:30 
-Wed 6th Jan 20:00 Arsenal VS Brentford
-Wed 6th Jan 20:00 Brighton VS Bournemouth
-Wed 6th Jan 20:00 Crystal Palace VS Chelsea
-Wed 6th Jan 20:00 Everton VS Aston Villa
-Wed 6th Jan 20:00 Fulham VS Spurs
-Wed 6th Jan 20:00 Ipswich Town VS Coventry City
-Wed 6th Jan 20:00 Leeds VS Man City
-Wed 6th Jan 20:00 Man Utd VS Newcastle
-Wed 6th Jan 20:00 Nott'm Forest VS Hull City
-Wed 6th Jan 20:00 Sunderland VS Liverpool
+Future week: Gameweek 20, Deadline: 05 Jan 2027 18:00 
+Tue 5th Jan 19:30 Arsenal VS Brentford
+Tue 5th Jan 19:30 Brighton VS Bournemouth
+Tue 5th Jan 19:30 Everton VS Aston Villa
+Tue 5th Jan 19:30 Nott'm Forest VS Hull City
+Tue 5th Jan 20:15 Sunderland VS Liverpool
+Wed 6th Jan 19:30 Crystal Palace VS Chelsea
+Wed 6th Jan 19:30 Fulham VS Spurs
+Wed 6th Jan 19:30 Ipswich Town VS Coventry City
+Wed 6th Jan 20:15 Leeds VS Man City
+Thu 7th Jan 20:00 Man Utd VS Newcastle
 
 Future week: Gameweek 21, Deadline: 16 Jan 2027 13:30 
 Sat 16th Jan 15:00 Aston Villa VS Man Utd
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 10 Sep 2026 11:52:16
+Last run ended : 10 Sep 2026 15:13:31
 
