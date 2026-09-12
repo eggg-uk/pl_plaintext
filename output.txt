@@ -1,4 +1,4 @@
-Last run started : 12 Sep 2026 11:17:14
+Last run started : 12 Sep 2026 14:24:14
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -12,7 +12,7 @@ Sun 23rd Aug 14:00 Man City VS Bournemouth (2-1)
 Sun 23rd Aug 16:30 Newcastle VS Liverpool (2-2)
 Mon 24th Aug 20:00 Fulham VS Chelsea (2-3)
 
-Last week: Gameweek 2, Deadline: 28 Aug 2026 18:30 
+Past week: Gameweek 2, Deadline: 28 Aug 2026 18:30 
 Fri 28th Aug 20:00 Crystal Palace VS Man City (1-4)
 Sat 29th Aug 12:30 Liverpool VS Nott'm Forest (2-2)
 Sat 29th Aug 15:00 Bournemouth VS Everton (1-1)
@@ -24,7 +24,7 @@ Sun 30th Aug 14:00 Sunderland VS Fulham (1-0)
 Sun 30th Aug 16:30 Man Utd VS Ipswich Town (5-2)
 Mon 31st Aug 20:00 Aston Villa VS Arsenal (0-1)
 
-This week: Gameweek 3, Deadline: 04 Sep 2026 18:30 
+Last week: Gameweek 3, Deadline: 04 Sep 2026 18:30 
 Fri 4th Sep 20:00 Ipswich Town VS Liverpool (0-2)
 Sat 5th Sep 12:30 Newcastle VS Bournemouth (2-2)
 Sat 5th Sep 15:00 Brentford VS Sunderland (1-1)
@@ -36,19 +36,19 @@ Sat 5th Sep 17:30 Hull City VS Aston Villa (0-0)
 Sun 6th Sep 14:00 Everton VS Man Utd (2-2)
 Sun 6th Sep 16:30 Arsenal VS Chelsea (2-1)
 
-Next week: Gameweek 4, Deadline: 12 Sep 2026 13:30 
-Sat 12th Sep 15:00 Aston Villa VS Nott'm Forest
-Sat 12th Sep 15:00 Bournemouth VS Brentford
-Sat 12th Sep 15:00 Chelsea VS Hull City
-Sat 12th Sep 15:00 Crystal Palace VS Ipswich Town
-Sat 12th Sep 15:00 Liverpool VS Fulham
+This week: Gameweek 4, Deadline: 12 Sep 2026 13:30 
+Sat 12th Sep 15:00 Aston Villa VS Nott'm Forest (0-0)
+Sat 12th Sep 15:00 Bournemouth VS Brentford (0-0)
+Sat 12th Sep 15:00 Chelsea VS Hull City (1-0)
+Sat 12th Sep 15:00 Crystal Palace VS Ipswich Town (1-0)
+Sat 12th Sep 15:00 Liverpool VS Fulham (0-0)
 Sat 12th Sep 17:30 Spurs VS Everton
 Sat 12th Sep 20:00 Sunderland VS Arsenal
 Sun 13th Sep 14:00 Coventry City VS Brighton
 Sun 13th Sep 16:30 Man Utd VS Man City
 Mon 14th Sep 20:00 Leeds VS Newcastle
 
-Future week: Gameweek 5, Deadline: 18 Sep 2026 18:30 
+Next week: Gameweek 5, Deadline: 18 Sep 2026 18:30 
 Fri 18th Sep 20:00 Brentford VS Chelsea
 Sat 19th Sep 12:30 Spurs VS Aston Villa
 Sat 19th Sep 15:00 Brighton VS Arsenal
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 12 Sep 2026 11:17:14
+Last run ended : 12 Sep 2026 14:24:14
 
