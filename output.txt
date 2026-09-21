@@ -1,4 +1,4 @@
-Last run started : 21 Sep 2026 14:33:01
+Last run started : 21 Sep 2026 19:45:04
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -108,41 +108,41 @@ Sat 31st Oct 20:00 Aston Villa VS Fulham
 Sun 1st Nov 16:30 Liverpool VS Arsenal
 Mon 2nd Nov 20:00 Newcastle VS Everton
 
-Future week: Gameweek 10, Deadline: 07 Nov 2026 13:30 
+Future week: Gameweek 10, Deadline: 06 Nov 2026 18:30 
+Fri 6th Nov 20:00 Everton VS Coventry City
+Sat 7th Nov 12:30 Leeds VS Spurs
 Sat 7th Nov 15:00 Arsenal VS Hull City
-Sat 7th Nov 15:00 Brighton VS Brentford
-Sat 7th Nov 15:00 Crystal Palace VS Liverpool
-Sat 7th Nov 15:00 Everton VS Coventry City
 Sat 7th Nov 15:00 Fulham VS Newcastle
-Sat 7th Nov 15:00 Ipswich Town VS Bournemouth
-Sat 7th Nov 15:00 Leeds VS Spurs
-Sat 7th Nov 15:00 Man Utd VS Aston Villa
-Sat 7th Nov 15:00 Nott'm Forest VS Man City
-Sat 7th Nov 15:00 Sunderland VS Chelsea
+Sat 7th Nov 17:30 Nott'm Forest VS Man City
+Sun 8th Nov 14:00 Brighton VS Brentford
+Sun 8th Nov 14:00 Crystal Palace VS Liverpool
+Sun 8th Nov 14:00 Ipswich Town VS Bournemouth
+Sun 8th Nov 14:00 Sunderland VS Chelsea
+Sun 8th Nov 16:30 Man Utd VS Aston Villa
 
-Future week: Gameweek 11, Deadline: 21 Nov 2026 13:30 
+Future week: Gameweek 11, Deadline: 21 Nov 2026 11:00 
+Sat 21st Nov 12:30 Man City VS Fulham
 Sat 21st Nov 15:00 Aston Villa VS Sunderland
 Sat 21st Nov 15:00 Bournemouth VS Nott'm Forest
-Sat 21st Nov 15:00 Brentford VS Everton
 Sat 21st Nov 15:00 Chelsea VS Leeds
 Sat 21st Nov 15:00 Coventry City VS Crystal Palace
-Sat 21st Nov 15:00 Hull City VS Brighton
-Sat 21st Nov 15:00 Liverpool VS Man Utd
-Sat 21st Nov 15:00 Man City VS Fulham
-Sat 21st Nov 15:00 Newcastle VS Arsenal
 Sat 21st Nov 15:00 Spurs VS Ipswich Town
+Sat 21st Nov 17:30 Newcastle VS Arsenal
+Sun 22nd Nov 14:00 Hull City VS Brighton
+Sun 22nd Nov 16:30 Liverpool VS Man Utd
+Mon 23rd Nov 20:00 Brentford VS Everton
 
-Future week: Gameweek 12, Deadline: 28 Nov 2026 13:30 
-Sat 28th Nov 15:00 Arsenal VS Man City
-Sat 28th Nov 15:00 Brighton VS Newcastle
-Sat 28th Nov 15:00 Crystal Palace VS Hull City
-Sat 28th Nov 15:00 Everton VS Liverpool
-Sat 28th Nov 15:00 Fulham VS Bournemouth
-Sat 28th Nov 15:00 Ipswich Town VS Aston Villa
+Future week: Gameweek 12, Deadline: 27 Nov 2026 18:30 
+Fri 27th Nov 20:00 Nott'm Forest VS Chelsea
 Sat 28th Nov 15:00 Leeds VS Coventry City
 Sat 28th Nov 15:00 Man Utd VS Brentford
-Sat 28th Nov 15:00 Nott'm Forest VS Chelsea
-Sat 28th Nov 15:00 Sunderland VS Spurs
+Sat 28th Nov 17:30 Ipswich Town VS Aston Villa
+Sun 29th Nov 12:00 Everton VS Liverpool
+Sun 29th Nov 14:05 Brighton VS Newcastle
+Sun 29th Nov 14:05 Crystal Palace VS Hull City
+Sun 29th Nov 14:05 Fulham VS Bournemouth
+Sun 29th Nov 14:05 Sunderland VS Spurs
+Sun 29th Nov 16:30 Arsenal VS Man City
 
 Future week: Gameweek 13, Deadline: 02 Dec 2026 18:30 
 Wed 2nd Dec 20:00 Aston Villa VS Everton
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 21 Sep 2026 14:33:01
+Last run ended : 21 Sep 2026 19:45:04
 
