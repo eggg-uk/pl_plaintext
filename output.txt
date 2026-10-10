@@ -1,4 +1,4 @@
-Last run started : 10 Oct 2026 13:59:22
+Last run started : 10 Oct 2026 18:55:07
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -62,11 +62,11 @@ Sun 20th Sep 16:30 Fulham VS Man Utd (1-1)
 
 This week: Gameweek 6, Deadline: 10 Oct 2026 11:00 
 Sat 10th Oct 12:30 Arsenal VS Leeds (2-1)
-Sat 10th Oct 15:00 Aston Villa VS Brentford
-Sat 10th Oct 15:00 Chelsea VS Bournemouth
-Sat 10th Oct 15:00 Ipswich Town VS Fulham
-Sat 10th Oct 15:00 Sunderland VS Brighton
-Sat 10th Oct 17:30 Man Utd VS Spurs
+Sat 10th Oct 15:00 Aston Villa VS Brentford (2-2)
+Sat 10th Oct 15:00 Chelsea VS Bournemouth (5-1)
+Sat 10th Oct 15:00 Ipswich Town VS Fulham (2-1)
+Sat 10th Oct 15:00 Sunderland VS Brighton (0-2)
+Sat 10th Oct 17:30 Man Utd VS Spurs (1-1)
 Sun 11th Oct 14:00 Crystal Palace VS Nott'm Forest
 Sun 11th Oct 14:00 Hull City VS Everton
 Sun 11th Oct 16:30 Liverpool VS Man City
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 10 Oct 2026 13:59:22
+Last run ended : 10 Oct 2026 18:55:07
 
