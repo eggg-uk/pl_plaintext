@@ -1,4 +1,4 @@
-Last run started : 19 Oct 2026 11:17:54
+Last run started : 19 Oct 2026 17:47:12
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -144,53 +144,53 @@ Sun 29th Nov 14:05 Fulham VS Bournemouth
 Sun 29th Nov 14:05 Sunderland VS Spurs
 Sun 29th Nov 16:30 Arsenal VS Man City
 
-Future week: Gameweek 13, Deadline: 02 Dec 2026 18:30 
-Wed 2nd Dec 20:00 Aston Villa VS Everton
-Wed 2nd Dec 20:00 Bournemouth VS Brighton
-Wed 2nd Dec 20:00 Brentford VS Arsenal
-Wed 2nd Dec 20:00 Chelsea VS Crystal Palace
-Wed 2nd Dec 20:00 Coventry City VS Ipswich Town
-Wed 2nd Dec 20:00 Hull City VS Nott'm Forest
-Wed 2nd Dec 20:00 Liverpool VS Sunderland
-Wed 2nd Dec 20:00 Man City VS Leeds
-Wed 2nd Dec 20:00 Newcastle VS Man Utd
-Wed 2nd Dec 20:00 Spurs VS Fulham
+Future week: Gameweek 13, Deadline: 01 Dec 2026 18:30 
+Tue 1st Dec 20:00 Coventry City VS Ipswich Town
+Wed 2nd Dec 19:30 Chelsea VS Crystal Palace
+Wed 2nd Dec 19:30 Hull City VS Nott'm Forest
+Wed 2nd Dec 19:30 Liverpool VS Sunderland
+Wed 2nd Dec 19:30 Man City VS Leeds
+Wed 2nd Dec 20:15 Aston Villa VS Everton
+Wed 2nd Dec 20:15 Bournemouth VS Brighton
+Wed 2nd Dec 20:15 Brentford VS Arsenal
+Wed 2nd Dec 20:15 Newcastle VS Man Utd
+Thu 3rd Dec 20:00 Spurs VS Fulham
 
-Future week: Gameweek 14, Deadline: 05 Dec 2026 13:30 
+Future week: Gameweek 14, Deadline: 05 Dec 2026 11:00 
+Sat 5th Dec 12:30 Chelsea VS Liverpool
 Sat 5th Dec 15:00 Aston Villa VS Crystal Palace
 Sat 5th Dec 15:00 Bournemouth VS Hull City
-Sat 5th Dec 15:00 Brentford VS Man City
-Sat 5th Dec 15:00 Chelsea VS Liverpool
-Sat 5th Dec 15:00 Everton VS Fulham
 Sat 5th Dec 15:00 Leeds VS Ipswich Town
 Sat 5th Dec 15:00 Man Utd VS Coventry City
-Sat 5th Dec 15:00 Newcastle VS Sunderland
-Sat 5th Dec 15:00 Nott'm Forest VS Brighton
-Sat 5th Dec 15:00 Spurs VS Arsenal
+Sat 5th Dec 17:30 Nott'm Forest VS Brighton
+Sat 5th Dec 20:00 Brentford VS Man City
+Sun 6th Dec 14:00 Everton VS Fulham
+Sun 6th Dec 14:00 Newcastle VS Sunderland
+Sun 6th Dec 16:30 Spurs VS Arsenal
 
 Future week: Gameweek 15, Deadline: 12 Dec 2026 13:30 
-Sat 12th Dec 15:00 Arsenal VS Bournemouth
-Sat 12th Dec 15:00 Brighton VS Everton
-Sat 12th Dec 15:00 Coventry City VS Aston Villa
-Sat 12th Dec 15:00 Crystal Palace VS Man Utd
 Sat 12th Dec 15:00 Fulham VS Brentford
-Sat 12th Dec 15:00 Hull City VS Spurs
 Sat 12th Dec 15:00 Ipswich Town VS Newcastle
 Sat 12th Dec 15:00 Liverpool VS Leeds
-Sat 12th Dec 15:00 Man City VS Chelsea
-Sat 12th Dec 15:00 Sunderland VS Nott'm Forest
+Sat 12th Dec 17:30 Man City VS Chelsea
+Sun 13th Dec 14:00 Arsenal VS Bournemouth
+Sun 13th Dec 14:00 Brighton VS Everton
+Sun 13th Dec 14:00 Sunderland VS Nott'm Forest
+Sun 13th Dec 16:30 Coventry City VS Aston Villa
+Sun 13th Dec 19:00 Crystal Palace VS Man Utd
+Mon 14th Dec 20:00 Hull City VS Spurs
 
-Future week: Gameweek 16, Deadline: 19 Dec 2026 13:30 
-Sat 19th Dec 15:00 Arsenal VS Man Utd
+Future week: Gameweek 16, Deadline: 19 Dec 2026 11:00 
+Sat 19th Dec 12:30 Brentford VS Newcastle
 Sat 19th Dec 15:00 Bournemouth VS Coventry City
-Sat 19th Dec 15:00 Brentford VS Newcastle
-Sat 19th Dec 15:00 Brighton VS Ipswich Town
-Sat 19th Dec 15:00 Chelsea VS Aston Villa
 Sat 19th Dec 15:00 Leeds VS Fulham
-Sat 19th Dec 15:00 Liverpool VS Spurs
 Sat 19th Dec 15:00 Man City VS Hull City
 Sat 19th Dec 15:00 Nott'm Forest VS Everton
-Sat 19th Dec 15:00 Sunderland VS Crystal Palace
+Sat 19th Dec 17:30 Liverpool VS Spurs
+Sun 20th Dec 14:00 Brighton VS Ipswich Town
+Sun 20th Dec 14:00 Sunderland VS Crystal Palace
+Sun 20th Dec 16:30 Arsenal VS Man Utd
+Mon 21st Dec 20:00 Chelsea VS Aston Villa
 
 Future week: Gameweek 17, Deadline: 26 Dec 2026 11:00 
 Sat 26th Dec 12:30 Aston Villa VS Leeds
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 19 Oct 2026 11:17:54
+Last run ended : 19 Oct 2026 17:47:12
 
