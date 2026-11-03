@@ -1,4 +1,4 @@
-Last run started : 02 Nov 2026 18:51:49
+Last run started : 03 Nov 2026 01:20:00
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -106,7 +106,7 @@ Sat 31st Oct 15:00 Man City VS Brighton (0-1)
 Sat 31st Oct 17:30 Spurs VS Crystal Palace (2-0)
 Sat 31st Oct 20:00 Aston Villa VS Fulham (1-1)
 Sun 1st Nov 16:30 Liverpool VS Arsenal (0-1)
-Mon 2nd Nov 20:00 Newcastle VS Everton
+Mon 2nd Nov 20:00 Newcastle VS Everton (0-1)
 
 Next week: Gameweek 10, Deadline: 06 Nov 2026 18:30 
 Fri 6th Nov 20:00 Everton VS Coventry City
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 02 Nov 2026 18:51:49
+Last run ended : 03 Nov 2026 01:20:00
 
