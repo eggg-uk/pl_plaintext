@@ -1,4 +1,4 @@
-Last run started : 19 Nov 2026 10:46:40
+Last run started : 19 Nov 2026 19:11:17
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -240,41 +240,41 @@ Wed 6th Jan 19:30 Ipswich Town VS Coventry City
 Wed 6th Jan 20:15 Leeds VS Man City
 Thu 7th Jan 20:00 Man Utd VS Newcastle
 
-Future week: Gameweek 21, Deadline: 16 Jan 2027 13:30 
-Sat 16th Jan 15:00 Aston Villa VS Man Utd
-Sat 16th Jan 15:00 Bournemouth VS Ipswich Town
-Sat 16th Jan 15:00 Brentford VS Brighton
+Future week: Gameweek 21, Deadline: 16 Jan 2027 11:00 
+Sat 16th Jan 12:30 Coventry City VS Everton
 Sat 16th Jan 15:00 Chelsea VS Sunderland
-Sat 16th Jan 15:00 Coventry City VS Everton
 Sat 16th Jan 15:00 Hull City VS Arsenal
 Sat 16th Jan 15:00 Liverpool VS Crystal Palace
 Sat 16th Jan 15:00 Man City VS Nott'm Forest
 Sat 16th Jan 15:00 Newcastle VS Fulham
-Sat 16th Jan 15:00 Spurs VS Leeds
+Sat 16th Jan 17:30 Aston Villa VS Man Utd
+Sun 17th Jan 14:00 Bournemouth VS Ipswich Town
+Sun 17th Jan 16:30 Spurs VS Leeds
+Mon 18th Jan 20:00 Brentford VS Brighton
 
 Future week: Gameweek 22, Deadline: 23 Jan 2027 13:30 
-Sat 23rd Jan 15:00 Arsenal VS Newcastle
-Sat 23rd Jan 15:00 Brighton VS Man City
-Sat 23rd Jan 15:00 Crystal Palace VS Spurs
-Sat 23rd Jan 15:00 Everton VS Brentford
 Sat 23rd Jan 15:00 Fulham VS Aston Villa
 Sat 23rd Jan 15:00 Ipswich Town VS Hull City
-Sat 23rd Jan 15:00 Leeds VS Chelsea
-Sat 23rd Jan 15:00 Man Utd VS Liverpool
-Sat 23rd Jan 15:00 Nott'm Forest VS Bournemouth
-Sat 23rd Jan 15:00 Sunderland VS Coventry City
+Sat 23rd Jan 17:30 Arsenal VS Newcastle
+Sat 23rd Jan 20:00 Brighton VS Man City
+Sun 24th Jan 14:00 Crystal Palace VS Spurs
+Sun 24th Jan 14:00 Everton VS Brentford
+Sun 24th Jan 14:00 Nott'm Forest VS Bournemouth
+Sun 24th Jan 14:00 Sunderland VS Coventry City
+Sun 24th Jan 16:30 Man Utd VS Liverpool
+Mon 25th Jan 20:00 Leeds VS Chelsea
 
-Future week: Gameweek 23, Deadline: 30 Jan 2027 13:30 
+Future week: Gameweek 23, Deadline: 30 Jan 2027 11:00 
+Sat 30th Jan 12:30 Liverpool VS Everton
 Sat 30th Jan 15:00 Aston Villa VS Ipswich Town
-Sat 30th Jan 15:00 Bournemouth VS Fulham
-Sat 30th Jan 15:00 Brentford VS Man Utd
-Sat 30th Jan 15:00 Chelsea VS Nott'm Forest
-Sat 30th Jan 15:00 Coventry City VS Leeds
-Sat 30th Jan 15:00 Hull City VS Crystal Palace
-Sat 30th Jan 15:00 Liverpool VS Everton
-Sat 30th Jan 15:00 Man City VS Arsenal
 Sat 30th Jan 15:00 Newcastle VS Brighton
-Sat 30th Jan 15:00 Spurs VS Sunderland
+Sat 30th Jan 17:30 Chelsea VS Nott'm Forest
+Sun 31st Jan 14:00 Bournemouth VS Fulham
+Sun 31st Jan 14:00 Coventry City VS Leeds
+Sun 31st Jan 14:00 Hull City VS Crystal Palace
+Sun 31st Jan 14:00 Spurs VS Sunderland
+Sun 31st Jan 16:30 Man City VS Arsenal
+Mon 1st Feb 20:00 Brentford VS Man Utd
 
 Future week: Gameweek 24, Deadline: 06 Feb 2027 13:30 
 Sat 6th Feb 15:00 Arsenal VS Liverpool
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 19 Nov 2026 10:46:40
+Last run ended : 19 Nov 2026 19:11:17
 
