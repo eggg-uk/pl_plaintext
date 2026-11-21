@@ -1,4 +1,4 @@
-Last run started : 21 Nov 2026 07:44:54
+Last run started : 21 Nov 2026 15:39:16
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -96,7 +96,7 @@ Sun 25th Oct 14:00 Liverpool VS Brighton (2-0)
 Sun 25th Oct 14:00 Man Utd VS Bournemouth (0-3)
 Sun 25th Oct 16:30 Sunderland VS Leeds (0-0)
 
-Last week: Gameweek 9, Deadline: 31 Oct 2026 11:00 
+Past week: Gameweek 9, Deadline: 31 Oct 2026 11:00 
 Sat 31st Oct 12:30 Chelsea VS Man Utd (2-0)
 Sat 31st Oct 15:00 Bournemouth VS Leeds (2-0)
 Sat 31st Oct 15:00 Brentford VS Nott'm Forest (2-0)
@@ -108,7 +108,7 @@ Sat 31st Oct 20:00 Aston Villa VS Fulham (1-1)
 Sun 1st Nov 16:30 Liverpool VS Arsenal (0-1)
 Mon 2nd Nov 20:00 Newcastle VS Everton (0-1)
 
-This week: Gameweek 10, Deadline: 06 Nov 2026 18:30 
+Last week: Gameweek 10, Deadline: 06 Nov 2026 18:30 
 Fri 6th Nov 20:00 Everton VS Coventry City (3-1)
 Sat 7th Nov 12:30 Leeds VS Spurs (1-0)
 Sat 7th Nov 15:00 Arsenal VS Hull City (1-0)
@@ -120,19 +120,19 @@ Sun 8th Nov 14:00 Ipswich Town VS Bournemouth (1-2)
 Sun 8th Nov 14:00 Sunderland VS Chelsea (1-0)
 Sun 8th Nov 16:30 Man Utd VS Aston Villa (4-4)
 
-Next week: Gameweek 11, Deadline: 21 Nov 2026 11:00 
-Sat 21st Nov 12:30 Man City VS Fulham
-Sat 21st Nov 15:00 Aston Villa VS Sunderland
-Sat 21st Nov 15:00 Bournemouth VS Nott'm Forest
-Sat 21st Nov 15:00 Chelsea VS Leeds
-Sat 21st Nov 15:00 Coventry City VS Crystal Palace
-Sat 21st Nov 15:00 Spurs VS Ipswich Town
+This week: Gameweek 11, Deadline: 21 Nov 2026 11:00 
+Sat 21st Nov 12:30 Man City VS Fulham (1-1)
+Sat 21st Nov 15:00 Aston Villa VS Sunderland (0-0)
+Sat 21st Nov 15:00 Bournemouth VS Nott'm Forest (1-0)
+Sat 21st Nov 15:00 Chelsea VS Leeds (1-1)
+Sat 21st Nov 15:00 Coventry City VS Crystal Palace (2-1)
+Sat 21st Nov 15:00 Spurs VS Ipswich Town (1-0)
 Sat 21st Nov 17:30 Newcastle VS Arsenal
 Sun 22nd Nov 14:00 Hull City VS Brighton
 Sun 22nd Nov 16:30 Liverpool VS Man Utd
 Mon 23rd Nov 20:00 Brentford VS Everton
 
-Future week: Gameweek 12, Deadline: 27 Nov 2026 18:30 
+Next week: Gameweek 12, Deadline: 27 Nov 2026 18:30 
 Fri 27th Nov 20:00 Nott'm Forest VS Chelsea
 Sat 28th Nov 15:00 Leeds VS Coventry City
 Sat 28th Nov 15:00 Man Utd VS Brentford
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 21 Nov 2026 07:44:54
+Last run ended : 21 Nov 2026 15:39:16
 
