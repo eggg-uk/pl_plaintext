@@ -1,4 +1,4 @@
-Last run started : 22 Nov 2026 08:53:48
+Last run started : 22 Nov 2026 16:43:15
 
 Past week: Gameweek 1, Deadline: 21 Aug 2026 18:30 
 Fri 21st Aug 20:00 Arsenal VS Coventry City (3-0)
@@ -128,8 +128,8 @@ Sat 21st Nov 15:00 Chelsea VS Leeds (1-4)
 Sat 21st Nov 15:00 Coventry City VS Crystal Palace (3-2)
 Sat 21st Nov 15:00 Spurs VS Ipswich Town (2-0)
 Sat 21st Nov 17:30 Newcastle VS Arsenal (2-2)
-Sun 22nd Nov 14:00 Hull City VS Brighton
-Sun 22nd Nov 16:30 Liverpool VS Man Utd
+Sun 22nd Nov 14:00 Hull City VS Brighton (2-0)
+Sun 22nd Nov 16:30 Liverpool VS Man Utd (0-0)
 Mon 23rd Nov 20:00 Brentford VS Everton
 
 Next week: Gameweek 12, Deadline: 27 Nov 2026 18:30 
@@ -456,5 +456,5 @@ Sun 30th May 16:00 Liverpool VS Bournemouth
 Sun 30th May 16:00 Man Utd VS Fulham
 Sun 30th May 16:00 Sunderland VS Man City
 
-Last run ended : 22 Nov 2026 08:53:48
+Last run ended : 22 Nov 2026 16:43:15
 
